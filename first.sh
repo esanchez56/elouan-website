@@ -23,6 +23,8 @@ git add -A >> .temp
 git commit -m "Modification Article Elouan" 
 echo "Envoie en cours"
 git push origin master:master >> .temp
+clear
+read end
 echo "Envoyé ! Le site sera mis à jours sur internet dans les 3 prochaines minutes."
 fi
 
