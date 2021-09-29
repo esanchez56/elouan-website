@@ -19,10 +19,10 @@ hugo -d docs > .temp
 echo "Construction terminée"
 echo "Préparation de l'envoie"
 git pull
-git add .
+git add -A
 git commit -m "Modification Article Elouan" 
 echo "Envoie en cours"
-git push master 
+git push master --all
 echo "Envoyé ! Le site sera mis à jours sur internet dans les 3 prochaines minutes."
 fi
 
