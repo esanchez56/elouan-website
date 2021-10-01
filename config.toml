@@ -29,19 +29,9 @@ link = "plugins/google-map/map.js"
 
 # menu
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-
-[[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Article"
 weight = 2
-
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
 
 [[menu.main]]
 URL = "contact"
@@ -57,10 +47,10 @@ logo = ""
 theme_color = "#41228e"
 # contact info
 phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
+email = "elouan@cristalea.fr"
 address = "125/A, CA Commercial Area, California, USA"
 # meta description
-author = "Johnathan Smith"
+author = "Elouan Sanchez"
 description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID
@@ -79,7 +69,7 @@ preloader = "images/preloader.gif" # use png, jpg, svg or gif format
 
 # contact
 [params.contact]
-enable = true
+enable = false
 form_action = "#" # contact form works with : https://formspree.io
 
 # google map
