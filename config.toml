@@ -29,7 +29,7 @@ link = "plugins/google-map/map.js"
 
 # menu
 [[menu.main]]
-URL = "blog"
+URL = "categories"
 name = "Article"
 weight = 2
 
@@ -42,7 +42,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = ""
+logo = "images/logo-blanc.png"
 # theme color
 theme_color = "#41228e"
 # contact info

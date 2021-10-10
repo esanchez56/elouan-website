@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>decision on Cristalea</title>
+    <link>http://localhost:1313/tags/decision/</link>
+    <description>Recent content in decision on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/decision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les 5 forces de PORTER : La concurrence des entreprises</title>
+      <link>http://localhost:1313/management/les-5-forces-de-porter-la-concurrence-des-entreprises/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/management/les-5-forces-de-porter-la-concurrence-des-entreprises/</guid>
+      <description>Dans chaque marché, la concurrence est un facteur essentiel à prendre en compte lors d&amp;rsquo;une analyse.</description>
+    </item>
+    
+    <item>
+      <title>Les 2 types de Décisions en Marketing</title>
+      <link>http://localhost:1313/management/les-2-types-de-decisions-en-marketing/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/management/les-2-types-de-decisions-en-marketing/</guid>
+      <description>Le Marketing représente l&amp;rsquo;ensemble des actions qui ont pour objectif de prévoir ou de constater les besoins présents et futurs du consommateur au sein d&amp;rsquo;une catégorie de produits ou de services.</description>
+    </item>
+    
+    <item>
+      <title>La matrice BCG : les 4 points essentiels !</title>
+      <link>http://localhost:1313/management/la-matrice-bcg-les-4-points-essentiels/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/management/la-matrice-bcg-les-4-points-essentiels/</guid>
+      <description>En marketing, il est essentiel de savoir comment son produit ou service est positionné sur le marché et à quel point il est rentable pour l&amp;rsquo;entreprise en fonction du marché.</description>
+    </item>
+    
+  </channel>
+</rss>

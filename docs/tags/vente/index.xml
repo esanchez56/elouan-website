@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vente on Cristalea</title>
+    <link>http://localhost:1313/tags/vente/</link>
+    <description>Recent content in vente on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vente/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;effet Gruen, ou l&#39;effet Ikea !</title>
+      <link>http://localhost:1313/marketing/leffet-gruen-la-conception-dun-magasin-est-importante/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/marketing/leffet-gruen-la-conception-dun-magasin-est-importante/</guid>
+      <description>N&amp;rsquo;avez vous jamais eu l&amp;rsquo;impression d&amp;rsquo;être dans un magasin en ayant oublié le but de votre visite ?</description>
+    </item>
+    
+    <item>
+      <title>Le dropshipping, le marketing de demain ?</title>
+      <link>http://localhost:1313/marketing/le-dropshipping-le-marketing-de-demain/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/marketing/le-dropshipping-le-marketing-de-demain/</guid>
+      <description>Vous devez entendre de tous les cotés sur Internet le terme de dropshipping ?</description>
+    </item>
+    
+  </channel>
+</rss>

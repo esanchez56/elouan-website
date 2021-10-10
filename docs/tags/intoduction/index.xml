@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intoduction on Cristalea</title>
+    <link>http://localhost:1313/tags/intoduction/</link>
+    <description>Recent content in intoduction on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/intoduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction aux Jeux de Rôle sur table</title>
+      <link>http://localhost:1313/divertissement/introduction-aux-jeux-de-roles-sur-table/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/divertissement/introduction-aux-jeux-de-roles-sur-table/</guid>
+      <description>Envie de découvrir un monde d&amp;rsquo;aventure et d&amp;rsquo;action où c&amp;rsquo;est VOUS qui décidez de votre futur ?</description>
+    </item>
+    
+  </channel>
+</rss>

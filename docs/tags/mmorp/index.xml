@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mmorp on Cristalea</title>
+    <link>http://localhost:1313/tags/mmorp/</link>
+    <description>Recent content in mmorp on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mmorp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les 4 grands types de RPG</title>
+      <link>http://localhost:1313/divertissement/les-4-grands-types-de-rpg/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/divertissement/les-4-grands-types-de-rpg/</guid>
+      <description>Les RPG (role playing game) ou jeux de rôles en français, sont des invitations au voyage et à l&amp;rsquo;aventure grâce aux jeux vidéos.</description>
+    </item>
+    
+  </channel>
+</rss>

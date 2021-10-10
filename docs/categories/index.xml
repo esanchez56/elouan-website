@@ -2,44 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cristalea</title>
-    <link>https://cristalea.fr/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Cristalea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://cristalea.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>branding</title>
-      <link>https://cristalea.fr/categories/branding/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>divertissement</title>
+      <link>http://localhost:1313/categories/divertissement/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cristalea.fr/categories/branding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://cristalea.fr/categories/design/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://cristalea.fr/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://cristalea.fr/categories/development/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://cristalea.fr/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>illustration</title>
-      <link>https://cristalea.fr/categories/illustration/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://cristalea.fr/categories/illustration/</guid>
+      <guid>http://localhost:1313/categories/divertissement/</guid>
       <description></description>
     </item>
     

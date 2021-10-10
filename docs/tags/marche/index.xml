@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marche on Cristalea</title>
+    <link>http://localhost:1313/tags/marche/</link>
+    <description>Recent content in marche on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/marche/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PESTEL : 6 Lettres pour tout comprendre de VOTRE marché</title>
+      <link>http://localhost:1313/economie/pestel-6-lettres-pour-tout-comprendre-de-votre-marche/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/economie/pestel-6-lettres-pour-tout-comprendre-de-votre-marche/</guid>
+      <description>Lorsque vous souhaitez créer votre entreprise, il est indispensable de recourir à une analyse PESTEL.</description>
+    </item>
+    
+    <item>
+      <title>S O N C A S : 6 lettres pour augmenter vos ventes !</title>
+      <link>http://localhost:1313/marketing/s-o-n-c-as-6-lettres-pour-augmenter-vos-ventes/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/marketing/s-o-n-c-as-6-lettres-pour-augmenter-vos-ventes/</guid>
+      <description>Dans notre société de communication, un client va acheter un produit ou un service non pas pour le produit lui-même, mais pour les besoins qu&amp;rsquo;il comble !</description>
+    </item>
+    
+    <item>
+      <title>La matrice BCG : les 4 points essentiels !</title>
+      <link>http://localhost:1313/management/la-matrice-bcg-les-4-points-essentiels/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/management/la-matrice-bcg-les-4-points-essentiels/</guid>
+      <description>En marketing, il est essentiel de savoir comment son produit ou service est positionné sur le marché et à quel point il est rentable pour l&amp;rsquo;entreprise en fonction du marché.</description>
+    </item>
+    
+    <item>
+      <title>Les 4 segments d&#39;un marché</title>
+      <link>http://localhost:1313/economie/marche/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/economie/marche/</guid>
+      <description>Le marché au sens économique est un lieu d&amp;rsquo;échange où se rencontrent l&amp;rsquo;offre (les entreprises vendant leurs produits ou services), et la demande (les clients).</description>
+    </item>
+    
+  </channel>
+</rss>
