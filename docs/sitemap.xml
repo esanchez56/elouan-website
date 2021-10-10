@@ -2,34 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://cristalea.fr/categories/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://cristalea.fr/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/divertissement/</loc>
+    <loc>https://cristalea.fr/tags/divertissement/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/divertissement/</loc>
+    <loc>https://cristalea.fr/categories/divertissement/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/divertissement/</loc>
+    <loc>https://cristalea.fr/divertissement/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/divertissement/les-4-grands-types-de-rpg/</loc>
+    <loc>https://cristalea.fr/divertissement/les-4-grands-types-de-rpg/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mmorp/</loc>
+    <loc>https://cristalea.fr/tags/mmorp/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rpg/</loc>
+    <loc>https://cristalea.fr/tags/rpg/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://cristalea.fr/tags/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/world-of-warcraft/</loc>
+    <loc>https://cristalea.fr/tags/world-of-warcraft/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cristalea.fr/blog/post-1/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://cristalea.fr/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
 </urlset>

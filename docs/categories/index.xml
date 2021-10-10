@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cristalea</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://cristalea.fr/categories/</link>
     <description>Recent content in Categories on Cristalea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cristalea.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>divertissement</title>
-      <link>http://localhost:1313/categories/divertissement/</link>
+      <link>https://cristalea.fr/categories/divertissement/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/divertissement/</guid>
+      <guid>https://cristalea.fr/categories/divertissement/</guid>
       <description></description>
     </item>
     
