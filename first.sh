@@ -32,7 +32,7 @@ read end
 elif [ $ans -eq 3 ]; then 
 git pull >> .temp
 clear
-echo "La dernière version est sur ton ordi"
+echo "La dernière version est sur ton ordinateur."
 read end
 fi
 
