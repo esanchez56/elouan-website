@@ -1,76 +1,26 @@
 Start building sites … 
 hugo v0.88.1+extended darwin/amd64 BuildDate=unknown
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/13 12:00:31 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2021/10/15 19:38:50 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 
-<<<<<<< HEAD
-                   | EN   
--------------------+------
-  Pages            | 191  
-  Paginator pages  |   0  
-  Non-page files   |  38  
-  Static files     |  76  
-  Processed images |   0  
-  Aliases          |   0  
-  Sitemaps         |   1  
-  Cleaned          |   0  
-
-Built in 53 ms
-Watching for changes in /Users/robinpourtaud/elouan-website/{archetypes,content,data,layouts,static,themes}
-Watching for config changes in /Users/robinpourtaud/elouan-website/config.toml
-Environment: "development"
-Serving pages from /Users/robinpourtaud/elouan-website/docs
-Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
-Press Ctrl+C to stop
-
-Change detected, rebuilding site.
-2021-10-10 12:20:35.931 +0200
-Total in 19 ms
-
-Change detected, rebuilding site.
-2021-10-10 12:20:39.934 +0200
-Total in 19 ms
-=======
                    | EN  
 -------------------+-----
-  Pages            | 11  
+  Pages            |  9  
   Paginator pages  |  0  
-  Non-page files   |  0  
-  Static files     | 59  
+  Non-page files   |  2  
+  Static files     | 60  
   Processed images |  0  
   Aliases          |  0  
   Sitemaps         |  1  
   Cleaned          |  0  
 
-<<<<<<< HEAD
-Total in 86 ms
-=======
-Total in 30 ms
+Total in 89 ms
 Déjà à jour.
->>>>>>> 300dd471c6f4438802eecfe38e90343de0951ebd
->>>>>>> 2927b157da923114a76ef8bcaf9966e1cc3cabdb
