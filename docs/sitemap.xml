@@ -2,79 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cristalea.fr/blog/post-1/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/blog/post-2/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/blog/post-3/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/blog/post-4/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/blog/post-5/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/blog/post-6/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/portfolio/project-1/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/portfolio/project-2/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/portfolio/project-3/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/portfolio/project-4/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/portfolio/project-5/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/portfolio/project-6/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/portfolio/project-7/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/portfolio/project-8/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/portfolio/project-9/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/blog/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://cristalea.fr/categories/branding/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>https://cristalea.fr/categories/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cristalea.fr/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/categories/design/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://cristalea.fr/tags/divertissement/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/categories/development/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://cristalea.fr/categories/divertissement/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/categories/illustration/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://cristalea.fr/divertissement/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/portfolio/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://cristalea.fr/divertissement/les-4-grands-types-de-rpg/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/about/</loc>
+    <loc>https://cristalea.fr/tags/mmorp/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/contact/</loc>
+    <loc>https://cristalea.fr/tags/rpg/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cristalea.fr/tags/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cristalea.fr/tags/world-of-warcraft/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

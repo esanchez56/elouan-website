@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visuel on Cristalea</title>
+    <link>http://localhost:1313/tags/visuel/</link>
+    <description>Recent content in visuel on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/visuel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La sémantique visuelle en communication</title>
+      <link>http://localhost:1313/marketing/la-semantique-visuelle-en-communication/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/marketing/la-semantique-visuelle-en-communication/</guid>
+      <description>La sémantique au sens large du terme représente l&amp;rsquo;étude et l&amp;rsquo;analyse des signifiés d&amp;rsquo;un énoncé, c&amp;rsquo;est à dire les mots, leur sens, leur liens les uns aux autres.</description>
+    </item>
+    
+  </channel>
+</rss>

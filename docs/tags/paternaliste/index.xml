@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paternaliste on Cristalea</title>
+    <link>http://localhost:1313/tags/paternaliste/</link>
+    <description>Recent content in paternaliste on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/paternaliste/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les 4 types de Management</title>
+      <link>http://localhost:1313/management/les-4-types-de-management/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/management/les-4-types-de-management/</guid>
+      <description>Il faut faire la différence entre un bon manager et un mauvais manager.</description>
+    </item>
+    
+  </channel>
+</rss>

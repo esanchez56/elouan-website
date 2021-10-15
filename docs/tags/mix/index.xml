@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mix on Cristalea</title>
+    <link>http://localhost:1313/tags/mix/</link>
+    <description>Recent content in mix on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les 4 P du marketing Mix</title>
+      <link>http://localhost:1313/marketing/marketing-mix-les-4-p/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/marketing/marketing-mix-les-4-p/</guid>
+      <description>Bien connaître le marché, mais aussi les consommateurs, vous permet d&amp;rsquo;établir la meilleure stratégie possible afin de promouvoir vos offres, produits et services.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aida on Cristalea</title>
+    <link>http://localhost:1313/tags/aida/</link>
+    <description>Recent content in aida on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/aida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Méthode AIDA en 4 points</title>
+      <link>http://localhost:1313/marketing/keske-cest-la-methode-aida/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/marketing/keske-cest-la-methode-aida/</guid>
+      <description>La méthode AIDA, pour Attention, Intérêt, Désir et Action, est utilisée en Marketing et communication afin d&amp;rsquo;optimiser au mieux une campagne de publicité, la création d&amp;rsquo;un site web ou toute autre opération marketing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -29,7 +29,7 @@ link = "plugins/google-map/map.js"
 
 # menu
 [[menu.main]]
-URL = "blog"
+URL = "categories"
 name = "Article"
 weight = 2
 
@@ -42,7 +42,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = ""
+logo = "images/logo-blanc.png"
 # theme color
 theme_color = "#41228e"
 # contact info
@@ -53,7 +53,7 @@ address = "125/A, CA Commercial Area, California, USA"
 author = "Elouan Sanchez"
 description = "This is meta description"
 # google analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "G-D8B5EB4SW1" # Your ID
 # baidu site verification
 baidu_site_verification = "" #Your verification code
 # baidu analytics
