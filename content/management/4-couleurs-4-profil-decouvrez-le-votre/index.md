@@ -9,7 +9,7 @@ tags:
   - "management"
   - "manager"
   - "psychologie"
-draft: True
+draft: True 
 ---
 
 Les couleurs sont et seront toujours utilisées dans le Marketing. En effet, les couleurs font naître en chacun d'entre nous une émotion, un sentiment. Mais savez-vous que votre couleur préférée représente votre personnalité ?
