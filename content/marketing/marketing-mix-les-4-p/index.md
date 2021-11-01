@@ -46,7 +46,7 @@ Le produit est l’élément le plus important du marketing mix. Sans ce dernier
 
 Même si ce n'est qu'un service (comme une banque ou un service de conseil, par exemple), il doit se démarquer sur le marché. Soit parce qu’il est unique en son genre, soit parce qu’il est meilleur que ce que proposent tous les concurrents (ou se positionne comme tel). Il faut donc montrer ses avantages, grâce à un packaging novateur par exemple !
 
-![](images/marketing-strategy-6229-1024x683.jpg)
+![](marketing-strategy-6229-1024x683.jpg)
 
 ## P comme "Promotion"
 
@@ -60,7 +60,7 @@ Laissez votre imagination faire le travail de créativité !
 
 Tout bon commercial le sait: l'emplacement est roi (surtout dans un magasin). Dans le domaine du marketing, c’est en effet le lieu et le type d’exposition du client à votre produit qui sont la base de tout bon marketing mix.
 
-![](images/Tête_de_gondole_dun_supermarché_parisien-1024x684.jpg)
+![](Tête_de_gondole_dun_supermarché_parisien-1024x684.jpg)
 
 On peut citer l'exemple des Têtes de Gondoles comme un exemple de Place efficace !  
 

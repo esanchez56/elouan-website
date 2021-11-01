@@ -31,7 +31,7 @@ Une fois un sujet de publication trouvé grâce à la veille d'information, il e
 - [_Canva_](https://www.canva.com/) : C'est l'indispensable pour chaque community manager : pratique, gratuit et simple d'utilisation, Canva vous permettra de créer rapidement des visuels (animés ou non) avec des photos, des stickers, des fonds et des couleurs 100% personnalisables du début à la fin.
 - [_Pixabay_](https://pixabay.com/fr/) : Petit bonus en terme de photo. Il est essentiel d'avoir des photos en bonne qualité afin de pouvoir les travailler et les utiliser de manière plus efficace. Il est également utile d'avoir des images vectorielles (agrandissables à l'infini sans perte de qualité) afin de pouvoir habiller ses visuels. Découvrez Pixabay, un outil gratuit et illimité en terme de mot clé !
 
-![](images/pexels-pixabay-35550-1024x683.jpg)
+![](pexels-pixabay-35550-1024x683.jpg)
 
 ## Gestion média-sociaux
 

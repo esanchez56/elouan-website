@@ -25,7 +25,7 @@ C'est l'élément le plus simple à comprendre lorsque l'on segmente un marché 
 
 Le marché Générique représente le plus gros challenge lorsque l'on segmente un marché. En effet, il est plus simple de faire de la communication pour promouvoir son soda par rapport à celui du voisin que de gagner des parts de marchés concernant les autres boissons sucrées qui ne sont pas des sodas. Voilà ce qu'est le marché générique, il représente l'ensemble des produits ou services différents du nôtre, mais répondant à un même besoin comme par exemple le jus d'orange, la grenadine ou bien encore l'Ice Tea. Ce sont tous les trois des boissons sucrées sans être des sodas pour autant, ce qui permet de répondre au même besoin qu'une boisson sucrée !
 
-![](images/drinks-supermarket-cans-beverage-3008-1024x678.jpg)
+![](drinks-supermarket-cans-beverage-3008-1024x678.jpg)
 
 Voici une petite [liste](https://fr.wiktionary.org/wiki/Cat%C3%A9gorie:Boissons_en_fran%C3%A7ais) des boissons dans le monde pour se rendre compte du marché complet.
 

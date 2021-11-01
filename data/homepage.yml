@@ -20,16 +20,19 @@ service:
     - title : "Marketing"
       icon : "ti-palette"
       content : "Blabla 1."
+      image : "marketing"
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Management"
       icon : "ti-vector"
       content : "Blabla 2"
+      image : "management"
       highlighted : false
 
-    - title : "Interaction Design"
+    - title : "Divertissement "
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Blabla 3"
+      image : "divertissement"
       highlighted : false
 # skill
 skill:
@@ -40,11 +43,11 @@ skill:
       progress : "90%"
       color : "#fdb157"
       
-    - title : ""
+    - title : "Management"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "Auyt"
       progress : "80%"
       color : "#bdecf6"
       

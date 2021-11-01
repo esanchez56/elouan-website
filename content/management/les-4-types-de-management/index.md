@@ -40,7 +40,7 @@ Didier fait vivre une vraie coalition entre les salariés. Il aime faire vivre s
 
 Didier à tendance à prendre ses désirs et ses rêves pour des réalités. Il ne voudra pas voir les défauts dans sa politique, ce qui peut nuire à l'image de l'entreprise. Il est accroché à ses idées d'entreprise "idéale" ce qui peut créer des désaccords avec les salariés qui ne reçoivent pas les récompenses. Enfin, le stress peut vite s’emmagasiner en lui, et chez ses collaborateurs !
 
-![](images/top-view-photo-of-3-men-in-front-of-laptop-2566581-1-1024x678.jpg)
+![](top-view-photo-of-3-men-in-front-of-laptop-2566581-1-1024x678.jpg)
 
 ## Consultatif
 

@@ -9,14 +9,14 @@ tags:
   - "management"
   - "manager"
   - "psychologie"
-draft: True 
+
 ---
 
 Les couleurs sont et seront toujours utilisées dans le Marketing. En effet, les couleurs font naître en chacun d'entre nous une émotion, un sentiment. Mais savez-vous que votre couleur préférée représente votre personnalité ?
 
 Le psychiatre autrichien [Carl Jung](https://fr.wikipedia.org/wiki/Carl_Gustav_Jung) dans ses travaux sur la [typologie jungienne](https://fr.wikipedia.org/wiki/Typologie_jungienne) a analysé différents modes de fonctionnement en fonction des personnalités de chacun. Plus tard, Isabelle et Katherine ont développé la méthode "[4 Colors](https://www.funny-learning.com/fr/la-methode-4-colors.html?fbclid=IwAR1jWcGjz6viL4llkWLct5yDZoyIRwJn22uZAdsE8DlhA9-F7EJY1mnL2S8)", associant les personnalités de Jung à une couleur. Mais maintenant, regardez les 4 couleurs ci-dessous, et la question est : Quelle est la couleur qui vous attire le plus ?
 
-![](images/Copie-de-Copie-de-Notoriété-1.png)
+![](not.png)
 
 ## Rouge :
 

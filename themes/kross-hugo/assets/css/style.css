@@ -11,6 +11,47 @@ VERSION: Versoin Number
   font-style: normal;
   font-display: swap
 }
+.divertissement:before{
+  background-image : url(/images/cat/divertissement.jpg);
+  background-repeat: no-repeat, repeat;
+  background-position:center;
+  background-size: auto 100%;
+  filter: blur(1px);
+  color:white;
+  z-index:1;
+  position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display:block;
+    content: '';
+}
+.divertissement{
+  z-index:2;
+  
+  background:white;
+  position:absolute;
+  display:block;
+}
+.management{
+  background-image : url(/images/cat/management.jpg);
+  background-repeat: no-repeat, repeat;
+  background-position:center;
+  background-size: auto 100%;
+  content:"coucou";
+  filter: blur(1px);
+  color:white;
+}
+.marketing{
+  background-image : url(/images/cat/marketing.jpg);
+  background-repeat: no-repeat, repeat;
+  background-position:center;
+  background-size: auto 100%;
+  content:"coucou";
+  filter: blur(1px);
+  color:white;
+}
 
 body {
   line-height: 1.2;
@@ -943,4 +984,7 @@ blockquote {
   text-transform:uppercase;
   margin-left: 12px;
   margin-top: 16px;
+}
+p img {
+  width: 100%;
 }

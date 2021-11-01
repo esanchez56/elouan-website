@@ -23,7 +23,7 @@ Un jeu de rôle sur table est une activité de groupe. Dans ce groupe, les diff�
 
 Tous ensembles, les joueurs vont découvrir un monde avec sa politique, son histoire, ses personnages, le tout narré par le maitre du jeu. Dans un jeu de rôle sur table, tout le jeu se déroule grâce à des lancements de dés !
 
-![](images/téléchargement.jpeg)
+![](téléchargement.jpeg)
 
 ## Historique
 
@@ -35,7 +35,7 @@ Tous ensembles, les joueurs vont découvrir un monde avec sa politique, son hist
 - 1983 - Premier jeu de rôle 100% français : L'ultime épreuve
 - 2016 - Le mot "rôliste" apparait dans le dictionnaire Larousse
 
-![](images/téléchargement-1.jpeg)
+![](téléchargement-1.jpeg)
 
 ## Glossaire
 

@@ -23,7 +23,7 @@ La stratégie de spécialisation a pour objectif de concentrer l'entreprise sur 
 - L'extension de marché : Cela consiste à investir dans la recherche et l'utilisation de nouveaux marchés pour les produits actuels (comme pour Décathlon et l'utilisation multiple des accessoires)
 - La pénétration de marché : Cela consiste à innover sur son produit et marché actuel afin de gagner de nouvelles parts de marché (Apple et l'innovation apportée à ses iPhones)
 
-![](images/abstract-accuracy-accurate-aim-262438-1024x681.jpg)
+![](abstract-accuracy-accurate-aim-262438-1024x681.jpg)
 
 ## Diversification
 
@@ -32,7 +32,7 @@ La stratégie de diversification a pour objectif de concentrer une partie de son
 - Concentrique : La stratégie de diversification est considérée comme concentrique lorsque les nouvelles activités de l'entreprise ont un lien avec son métier d'origine (Red Bull et les événements sportifs)
 - Conglomérale : La diversification est dite conglomérale quand il n’y a pas de lien entre les différents métiers de l'entreprise. L'objectif est donc de créer une nouvelle source de revenu (Lidl et sa marque de vêtement)
 
-![](images/set-of-colorful-semiprecious-stones-placed-chaotically-on-4040599-683x1024.jpg)
+![](set-of-colorful-semiprecious-stones-placed-chaotically-on-4040599-683x1024.jpg)
 
 ## Intégration
 
@@ -43,7 +43,7 @@ Une stratégie d'Intégration consiste en le rachat de partenaires tiers afin de
 - Horizontale : Le rachat Horizontal est l'action de racheter ses concurrents afin d'augmenter ses parts de marché.
 - Global : Le rachat Global consiste à effectuer les 3 précédents types de rachat et d'ainsi maîtriser entièrement son activité. Cette stratégie reste très coûteuse (l'histoire de [Microsoft](https://www.microsoft.com/fr-fr) est un bon exemple de cette approche).
 
-![](images/working-macbook-computer-keyboard-34577-1024x683.jpg)
+![](working-macbook-computer-keyboard-34577-1024x683.jpg)
 
 ## Externalisation
 
@@ -52,4 +52,4 @@ La stratégie d'externalisation a pour action principale de confier certaines de
 - La Sous-traitance : Cela consiste en la délégation d'une partie de l'activité de l'entreprise à une entreprise tierce (comme la logistique et le transport qui sont sous-traités chez la SNCF)
 - La Franchise : Elle consiste à donner le droit a une tierce personne le droit de commercialiser nos produits en échange d'une commission sur les ventes (Micromania est une franchise par exemple)
 
-![](images/booth-branding-business-buy-264636-1024x683.jpg)
+![](booth-branding-business-buy-264636-1024x683.jpg)

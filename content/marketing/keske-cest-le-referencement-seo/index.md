@@ -19,7 +19,7 @@ SEO est l'acronyme de Search Engine Optimization. C'est l'art de positionner un 
 
 Lorsque vous recherchez "Apple" sur Google, voici la page sur laquelle vous tombez :
 
-![](images/exemple.png)
+![](exemple.png)
 
 En effectuant cette recherche, nous tombons sur deux liens. Sur le 1er lien, nous pouvons lire l'inscription **Annonce**. Cette inscription signifie que le lien est sponsorisé, et donc lié au SEA (référencement payant). Cependant le même lien lui est le site officiel de Appel, il apparaît en 1er lien après l'annonce grâce au référencement naturel !
 
@@ -45,4 +45,4 @@ C'est la BASE du référencement, sachant que près de 57% des sites web sont vi
 
 Vous avez maintenant toutes les clefs en main pour pouvoir atteindre le succès grâce à votre SEO.
 
-![](images/success-1433400_1920-1024x683.jpg)
+![](success-1433400_1920-1024x683.jpg)

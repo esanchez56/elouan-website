@@ -15,7 +15,7 @@ draft: True
 
 En marketing, il est essentiel de savoir comment son produit ou service est positionné sur le marché et à quel point il est rentable pour l'entreprise en fonction du marché. Pour savoir positionner son produit, il existe la matrice BCG pour Boston Consulting Group. Elle permet de placer un produit en fonction de son taux de croissance et de ses parts de marché. Découvrons ses 4 catégories !
 
-![](images/Copie-de-Copie-de-Notoriété.png)
+![](Copie-de-Copie-de-Notoriété.png)
 
 ## Produits vache à lait
 
@@ -27,7 +27,7 @@ Les produits vedettes sont l'avenir de l'entreprise. Ce sont des activités en f
 
 Cependant, les produits vedettes sont extrêmement exigeants en terme de liquidité. Ils nécessitent des investissements importants, afin de maintenir leur place sur le marché. Ils sont faiblement rentables car comme expliqué, les produits ou services vedettes sont très demandeurs de ressources et ne sont donc que peu rentables. Il est donc important pour les entreprises de les transformer en vache à lait
 
-![](images/animal-calf-close-up-countryside-590497-1-1024x1024.jpg)
+![](animal-calf-close-up-countryside-590497-1-1024x1024.jpg)
 
 Pour un peu de mignonerie, découvrez le [top 20](https://www.futura-sciences.com/planete/photos/campagne-plus-belles-races-vaches-20-photos-1348/) des vaches les plus belles.
 

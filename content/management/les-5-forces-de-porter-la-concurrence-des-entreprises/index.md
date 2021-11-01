@@ -23,7 +23,7 @@ Pour chaque entreprise, il existe un concurrent direct : Pepsi contre Coca, Sams
 
 Les fournisseurs font partie intégrante de l'entreprise. Ce sont eux qui permettent la production dans l'entreprise, le moindre retard peut détruire une stratégie sur le long terme ou bien encore rendre un produit inutile (les vêtements de saison par exemple). Ils possèdent en conséquence une force de négociation énorme et un pouvoir sur l'entreprise. Il est donc important pour un bon manager de garder de bonnes relations avec ses fournisseurs afin de conserver cet avantage.
 
-![](images/close-up-of-human-hand-327533-scaled-1-1024x641.jpg)
+![](close-up-of-human-hand-327533-scaled-1-1024x641.jpg)
 
 ## Acheteurs
 

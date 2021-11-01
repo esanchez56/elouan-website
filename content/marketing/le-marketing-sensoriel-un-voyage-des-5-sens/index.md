@@ -33,7 +33,7 @@ Ces publicités utilisent la méthode AIDA, découvrez notre [article](https://k
 
 ## L'odorat 👃
 
-![](images/food-france-morning-breakfast-2135-768x1024.jpg)
+![](food-france-morning-breakfast-2135-768x1024.jpg)
 
 C'est le début de votre journée et vous vous baladez en ville. Vous passez devant une boulangerie et soudainement une odeur de pain frais envahit la rue, tout en vous donnant l'envie de manger une baguette !
 
@@ -51,7 +51,7 @@ Il est important pour ce type d'argument de vente de donner une preuve aux clien
 
 Une petite balade dans un magasin Nature et Découverte, et vous comprendrez l'utilité de l'ouïe dans le marketing. En effet, le bruit d'une cascade d'eau, ou d'un gong asiatique amplifient le coté zen et relaxant du magasin, et plonge donc le client dans une ambiance différente.
 
-![](images/bridge-cascade-environment-fall-358457-1-682x1024.jpg)
+![](bridge-cascade-environment-fall-358457-1-682x1024.jpg)
 
 Le Laos est un beau [pays](https://www.routard.com/guide/code_dest/laos.htm) !
 

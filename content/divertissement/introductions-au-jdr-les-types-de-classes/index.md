@@ -28,7 +28,7 @@ Classe classique parmi les piliers du jdr, le guerrier est la classe universelle
 - Épée à 2 mains
 - Tout ce qui fait mal
 
-![](images/pexels-daisa-tj-3408420-1024x683.jpg)
+![](pexels-daisa-tj-3408420-1024x683.jpg)
 
 ## Le mage
 
@@ -41,7 +41,7 @@ Rejoignez la confrérie des mages, et devenez un maître des sorts. Réfléchiss
 - Nécromancien
 - Ou pourquoi pas même archimage (mage suprême)
 
-![](images/book-cover-4397796_960_720.jpg)
+![](book-cover-4397796_960_720.jpg)
 
 ## Le voleur
 

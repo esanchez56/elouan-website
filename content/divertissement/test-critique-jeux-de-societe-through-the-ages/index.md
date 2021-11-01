@@ -45,7 +45,7 @@ Suite à cela, vous allez pouvoir dépenser vos actions civiles pour acheter de 
 
 Une fois le tour terminé, vous allez pouvoir produire vos ressources, piocher des cartes militaires et vous allez devoir nourrir votre population si vous ne souhaitez pas perdre des points de culture !
 
-![](images/Through-the-Ages-galerie01.jpg)
+![](Through-the-Ages-galerie01.jpg)
 
 ## Mon avis :
 
@@ -59,6 +59,6 @@ Malheureusement, la durée du jeu peut faire peur à certains (120 minutes minim
 
 Enfin le seul bémol réel selon moi est le matériel qui est un peu simpliste (à la Terraforming Mars) ce qui m'a un peu refroidi à la 1ère ouverture de la boite :)
 
-![](images/Ajouter-des-lignes-dans-le-corps-du-texte-1.png)
+![](Ajouter-des-lignes-dans-le-corps-du-texte-1.png)
 
 N'hésitez pas à me donner votre avis sur notre page [Facebook](https://www.facebook.com/keskec.fr) ou si vous avez des questions sur le jeu de manière générale (règles, précision, avis)!

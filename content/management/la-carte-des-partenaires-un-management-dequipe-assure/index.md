@@ -26,7 +26,7 @@ Les alignés sont la force de travail d'un groupe. En effet, ils vont être là 
 
 Afin d'assurer leur efficacité au maximum, il faut leur confier des missions diversifiées dans leur domaine de compétence !
 
-![](images/woman-in-black-blazer-sitting-on-black-office-chair-3727464-1024x683.jpg)
+![](woman-in-black-blazer-sitting-on-black-office-chair-3727464-1024x683.jpg)
 
 ## Les concertatifs
 
@@ -34,7 +34,7 @@ Les concertatifs vont être là pour confronter les idées. En effet, dans un pr
 
 Ils vont souvent chercher la domination du groupe afin d'assurer l'adhésion à leurs idées. Il faut donc les laisser donner leurs opinions en prenant garde à ce que celles des autres ne soit pas reléguées au second plan.
 
-![](images/strength-strong-toy-action-figure-4048-1-1024x683.jpg)
+![](strength-strong-toy-action-figure-4048-1-1024x683.jpg)
 
 ## Hésitants
 
@@ -42,6 +42,6 @@ Les hésitants sont les derniers grands composants du triangle d'or. Leur object
 
 Il faut donc vous assurer de ne pas mettre trop de personnel hésitant ensemble. Vous serez sinon obligé de faire autant de concession qu'il y a de personnes hésitantes.
 
-![](images/person-holding-100-us-dollar-banknotes-2068975-1024x683.jpg)
+![](person-holding-100-us-dollar-banknotes-2068975-1024x683.jpg)
 
 Il est donc nécessaire, pour réaliser un projet de groupe efficace, de bien analyser les différentes personnes composants le groupe afin de bien manager chacun !

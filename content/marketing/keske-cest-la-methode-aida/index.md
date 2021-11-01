@@ -20,7 +20,7 @@ L’**attention** est la 1ère composante de la méthode AIDA, et la plus essent
 
 Utiliser une image choc ou un texte fort avec une police très visuelle pour attirer l'attention permet alors de se démarquer des autres campagnes.
 
-![](images/man-beside-woman-billboard-1031700-1024x681.jpg)
+![](man-beside-woman-billboard-1031700-1024x681.jpg)
 
 Dans cette publicité pour l'iPhone X, l'élément visant à capter l'**Attention** est la présence de deux visages en gros plan - AIDA
 
@@ -38,7 +38,7 @@ Le client potentiel doit vouloir en savoir plus sur votre offre. Il ne souhaite 
 
 La meilleure façon de susciter le désir est de jouer avec les **_émotions_** de votre cible. Cela peut se faire en démontrant les résultats positifs fournis par votre offre, choquer avec une image forte etc.
 
-![](images/man-in-brown-leather-jacket-using-binoculars-3811807-1024x673.jpg)
+![](man-in-brown-leather-jacket-using-binoculars-3811807-1024x673.jpg)
 
 ## Action :
 

@@ -25,7 +25,7 @@ On retrouve la plupart du temps 4 critères communs à toute décision stratégi
 - Des coûts élevés sont généralement engendrés
 - Cette décision est quasiment irréversible
 
-![](images/top-view-photo-of-people-near-wooden-table-3183150-2-1-1024x683.jpg)
+![](top-view-photo-of-people-near-wooden-table-3183150-2-1-1024x683.jpg)
 
 ## Décision Opérationelle
 

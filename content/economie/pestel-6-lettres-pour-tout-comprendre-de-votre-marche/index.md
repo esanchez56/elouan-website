@@ -42,7 +42,7 @@ L'aspect Social de l'analyse PESTEL prend en considération l'ensemble des indic
 - La démographie
 - L'augmentation de la consommation du BIO
 
-![](images/photo-of-people-doing-handshakes-3183197-scaled-1-1024x683.jpg)
+![](photo-of-people-doing-handshakes-3183197-scaled-1-1024x683.jpg)
 
 ## T : Technologique
 

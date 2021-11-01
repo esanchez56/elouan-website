@@ -12,7 +12,7 @@ Vous avez découvert notre article sur la [méthode AIDA](https://keskec.fr/mark
 
 Testez maintenant vos compétences en marketing et en management grâce à une analyse de publicité. Les règles sont simples : découvrez la publicité ci-dessous, et recherchea les 4 composants de la méthode AIDA (Attractivité / Intérêt / Désir / Action) avant de découvrir mon analyse afin de comparer vos résultats.
 
-![](images/pub-7-bis.jpg)
+![](pub-7-bis.jpg)
 
 Publicité pour le livre de guide de [Guide Restos Voir](http://guiderestos.com/)
 
