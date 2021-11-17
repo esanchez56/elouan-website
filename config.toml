@@ -101,3 +101,6 @@ URL = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
 URL = "#"
+
+[markup.goldmark.renderer]
+unsafe= true

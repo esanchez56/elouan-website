@@ -21,18 +21,21 @@ service:
       icon : "ti-palette"
       content : "Blabla 1."
       image : "marketing"
+      link : "/categories/marketing/"
       highlighted : false
 
     - title : "Management"
       icon : "ti-vector"
       content : "Blabla 2"
       image : "management"
+      link : "/categories/management/"
       highlighted : false
 
     - title : "Divertissement "
       icon : "ti-panel"
       content : "Blabla 3"
       image : "divertissement"
+      link : "/categories/divertissement/"
       highlighted : false
 # skill
 skill:

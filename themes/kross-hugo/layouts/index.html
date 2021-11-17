@@ -164,14 +164,14 @@
         </div>
         {{ range .item }}
         <div class="col-md-4 mb-4">
-          <div class="card {{if .highlighted }} active-bg-primary {{end}} {{.image }} hover-shadow shadow">
+          <a class="card {{if .highlighted }} active-bg-primary {{end}} {{.image }} hover-shadow shadow" href="{{.link}}">
             <div class="card-body text-center px-4 py-5">
               <i class="{{.icon }} icon mb-5 d-inline-block"></i>
-              <h4 class="mb-4">{{.title}}</h4>
-              <p>{{.content | markdownify}}</p>
+              <h4 class="mb-4 forceWhite">{{.title}}</h4>
+              <p class="forceWhite">{{.content | markdownify}}</p>
             </div>
           </div>
-        </div>
+        </a>
         {{ end }}
       </div>
     </div>
