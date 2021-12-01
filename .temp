@@ -12,9 +12,5 @@ hugo v0.88.1+extended darwin/amd64 BuildDate=unknown
   Sitemaps         |  1  
   Cleaned          |  0  
 
-Total in 162 ms
-Mise à jour 3a0393c..ec7d82b
-Fast-forward
- docs/js/disqus.html | 43 +++++++++++++++++++++++++++++++++++++++++++
- 1 file changed, 43 insertions(+)
- create mode 100644 docs/js/disqus.html
+Total in 54 ms
+Déjà à jour.

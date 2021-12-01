@@ -44,7 +44,7 @@ weight = 4
 home = "Home"
 logo = "images/logo-blanc.png"
 # theme color
-theme_color = "#41228e"
+theme_color = "#0C2D6A"
 # contact info
 phone = "+880 2544 658 256"
 email = "elouan@cristalea.fr"

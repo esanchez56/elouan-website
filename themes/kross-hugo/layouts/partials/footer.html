@@ -34,24 +34,7 @@
 
 <!-- footer -->
 <footer class="bg-dark footer-section">
-  <div class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary"><a href="mailto:{{site.Params.email}}">{{site.Params.email}}</a></p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Téléphone</h5>
-          <p class="text-white paragraph-lg font-secondary"><a href="tel:{{site.Params.phone}}">{{site.Params.phone}}</a></p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Addresse</h5>
-          <p class="text-white paragraph-lg font-secondary">{{site.Params.address}}</p>
-        </div>
-      </div>
-    </div>
-  </div>
+
   <div class="footer-bottom border-top text-center border-dark py-5">
     <p class="mb-0 text-light">{{ site.Params.copyright | markdownify }}</p>
   </div>
@@ -77,7 +60,7 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	Ce site utilise les cookies.<span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">I Accepter</span>
+	Ce site utilise les cookies.<span id="js-cookie-button" class="btn btn-sm btn-primary ml-2">J'Accepte</span>
 </div>
 <script>
 	(function ($) {
