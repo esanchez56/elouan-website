@@ -1,26 +1,20 @@
 Start building sites … 
 hugo v0.88.1+extended darwin/amd64 BuildDate=unknown
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "taxonomy": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "term": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
-WARN 2021/10/15 19:39:20 found no layout file for "HTML" for kind "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
 
                    | EN  
 -------------------+-----
-  Pages            |  9  
+  Pages            | 32  
   Paginator pages  |  0  
-  Non-page files   |  2  
-  Static files     | 60  
+  Non-page files   |  3  
+  Static files     | 82  
   Processed images |  0  
   Aliases          |  0  
   Sitemaps         |  1  
   Cleaned          |  0  
 
-Total in 38 ms
-Déjà à jour.
+Total in 162 ms
+Mise à jour 3a0393c..ec7d82b
+Fast-forward
+ docs/js/disqus.html | 43 +++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 43 insertions(+)
+ create mode 100644 docs/js/disqus.html

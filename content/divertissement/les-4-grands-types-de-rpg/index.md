@@ -53,8 +53,8 @@ Affrontez des monstres de plus en plus fort pour gagner des niveaux et de nouvel
 
 On peux citer par exemple World of Warcraft (bien évidement), Albion ou bien encore LOTR Online...
 
-https://www.youtube.com/watch?v=h3sZ8TuOIOk
 
+<iframe width="950" height="534" src="https://www.youtube.com/embed/h3sZ8TuOIOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Et vous ? Quel est votre RPG préféré ?
 
 Partagez le sur nos réseaux sociaux dès maintenant !

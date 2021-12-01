@@ -4,7 +4,7 @@ PROJECT: Project Name
 VERSION: Versoin Number
 -------------------------------------------------------------------*/
 @import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 @font-face {
   font-family: bwnistaint-xbd;
   src: url(../fonts/BwNistaInt-xBd.woff) format("woff");
@@ -70,8 +70,9 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: playfair display, serif;
-  line-height: 1.2
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.2;
+  font-weight: 1000;
 }
 
 h1,
@@ -89,7 +90,13 @@ h1,
 
 h2,
 .h2 {
-  font-size: 60px
+  font-size: 60px;
+  
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-color: #B721FF;
+background-image: linear-gradient(270deg, #B721FF 0%, #341b71 100%);
+
 }
 
 @media(max-width:991px) {
@@ -252,7 +259,7 @@ a:hover {
 }
 
 .section {
-  padding-top: 80px;
+  padding-top: 25px;
   padding-bottom: 80px
 }
 
@@ -1003,4 +1010,9 @@ img[style^="zoom: 67"] {
   width:67%;
   margin-right: 16.5%;
   margin-right: 16.5%;
+}
+
+.content p:first-child{
+  text-align:center;
+  font-weight:bold;
 }
