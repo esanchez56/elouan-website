@@ -11,6 +11,10 @@ about:
     label : "know more"
     URL : "about"
 
+blog:
+  enable : true
+  title : "Articles"
+  # blog post comes from "content/blog" folder
 
 # service
 service:
@@ -39,7 +43,7 @@ service:
       highlighted : false
 # skill
 skill:
-  enable : true
+  enable : false
   title : "Skills"
   item:
     - title : "Marketing"
@@ -116,7 +120,3 @@ clients_logo_slider:
       URL : "#"
 
 # blog
-blog:
-  enable : true
-  title : "Articles"
-  # blog post comes from "content/blog" folder

@@ -16,7 +16,7 @@
       <img src="{{`images/illustrations/dots-cyan.svg` | relURL}}" alt="bg-shape">
     </div>
     <div class="layer" id="l3">
-      <img src="{{`images/illustrations/leaf-orange.svg` | relURL}}" alt="bg-shape">
+      <img >
     </div>
     <div class="layer" id="l4">
       <img src="{{`images/illustrations/dots-orange.svg` | relURL}}" alt="bg-shape">
@@ -164,9 +164,9 @@
         </div>
         {{ range .item }}
         <div class="col-md-4 mb-4">
-          <a class="card {{if .highlighted }} active-bg-primary {{end}} {{.image }} hover-shadow shadow" href="{{.link}}">
+          <a class="card {{if .highlighted }} active-bg-primary {{end}} {{.image }} " href="{{.link}}">
             <div class="card-body text-center px-4 py-5">
-              <i class="{{.icon }} icon mb-5 d-inline-block"></i>
+              <!--<i class="{{.icon }} icon mb-5 d-inline-block"></i>-->
               <h4 class="mb-4 forceWhite">{{.title}}</h4>
               <p class="forceWhite">{{.content | markdownify}}</p>
             </div>
@@ -265,7 +265,7 @@
         <div class="col-12 text-center">
           <h2 class="section-title">{{site.Data.homepage.blog.title | markdownify }}</h2>
         </div>
-        {{ range first 3 (where .Site.RegularPages "Section" "blog")}}
+        {{ range first 3 (.Site.RegularPages )}}
         {{ .Render "post" }}
         {{ end }}
       </div>

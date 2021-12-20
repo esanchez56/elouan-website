@@ -13,20 +13,25 @@ VERSION: Versoin Number
 }
 
 .divertissement{
-  background :url(/images/cat/divertissement.jpg);
+  background-image : url(/images/cat/divertissement.jpg);
   background-repeat: no-repeat, repeat;
   background-position:center;
-  background-blend-mode: overlay;
   background-size: auto 100%;
-  filter:grayscale(60%);
-  color:white!important;
+  content:"coucou";
+  color:white;
+  height: 267px;
+}
+.pic-c{
+  text-align:center;
 }
 .divertissement:hover, .management:hover, .marketing:hover{
-  filter:grayscale(0%);
+  box-shadow: 0 0 40px green;
 }
 .forceWhite{
   color:white;
   text-shadow: #000 1px 0 10px;
+  margin-top:40px;
+  
 }
 .management{
   background-image : url(/images/cat/management.jpg);
@@ -34,7 +39,7 @@ VERSION: Versoin Number
   background-position:center;
   background-size: auto 100%;
   content:"coucou";
-  filter:grayscale(60%);
+  height: 267px;
   color:white;
 }
 .marketing{
@@ -43,8 +48,8 @@ VERSION: Versoin Number
   background-position:center;
   background-size: auto 100%;
   content:"coucou";
-  filter:grayscale(60%);
   color:white;
+  height: 267px;
 }
 
 body {
@@ -796,17 +801,11 @@ blockquote {
 }
 
 .content * {
-  margin-bottom: 20px
+  margin-bottom: 20px;
+  max-width: 100%;
 }
 
-.content strong {
-  font-family: playfair display, serif;
-  font-size: 22px;
-  font-weight: 400;
-  color: #000;
-  display: inherit;
-  line-height: 1.5
-}
+
 
 .page-title-alt {
   padding: 350px 0 70px
@@ -974,6 +973,9 @@ blockquote {
 .img-header{
   width:70px;
   float: left;
+}
+.img-fluid{
+  max-height:175px;
 }
 .title{
   float: left;

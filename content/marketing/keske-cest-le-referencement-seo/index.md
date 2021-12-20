@@ -8,7 +8,7 @@ tags:
   - "marketing"
   - "referencement"
   - "seo"
-draft: True
+
 ---
 
 Facebook, Apple ou bien encore Nintendo, il n'est pas difficile pour un internaute de trouver des informations sur Internet sans pour autant rechercher l'information. Mais comment ces sociétés font-elles pour être omniprésentes dans le référencement ? Découvrons le référencement SEO !
@@ -29,7 +29,7 @@ En effectuant cette recherche, nous tombons sur deux liens. Sur le 1er lien, nou
 
 En effet, la base du SEO, ce sont les mots-clés. Par mots-clés, on entend les mots qui résument le mieux votre contenu, ils faut donc les utiliser dans le nom de votre article, dans votre titres H1 et H2
 
-> Le H1 est le **titre principal** d’une page internet. Il existe 6 niveaux de H possible : du H1 au H6. Les différents niveaux servent à structurer une page et à indiquer au moteur de recherche quels sont les titres et sous titres et permet une amélioration du référencement natuel.
+> Le H1 est le **titre principal** d’une page internet. Il existe 6 niveaux de H possible : du H1 au H6. Les différents niveaux servent à structurer une page et à indiquer au moteur de recherche quels sont les titres et sous titres et permet une amélioration du référencement natuel.
 > 
 > Petit rappel : [https://optimiz.me/h1-2/](https://optimiz.me/h1-2/)
 

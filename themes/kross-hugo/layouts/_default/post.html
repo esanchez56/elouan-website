@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-sm-6 mb-4">
   <article class="card shadow">
-    <a href="{{.Permalink}}" title="{{.Title }}">
+    <a href="{{.Permalink}}" title="{{.Title }}" class="pic-c">
       {{$url := print .Permalink "/" .Params.Image}}
       {{ with .Resources.ByType "image" }}
               {{$firstimage := first 1 . }}

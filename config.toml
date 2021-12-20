@@ -33,10 +33,10 @@ URL = "categories"
 name = "Article"
 weight = 2
 
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
+#[[menu.main]]
+#URL = "contact"
+#name = "Contact"
+#weight = 4
 
 
 # default parameters
@@ -59,7 +59,7 @@ baidu_site_verification = "" #Your verification code
 # baidu analytics
 baidu_analytics_id = "" #Your ID
 # copyright
-copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Cristalea Website"
 
 
 # preloader
@@ -81,26 +81,27 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 # cookies
-[params.cookies]
-enable = true
-expire_days = 2
 
-# social site
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
-
-[[params.social]]
-icon = "ti-instagram"
-URL = "#"
-
-[[params.social]]
-icon = "ti-dribbble"
-URL = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt"
-URL = "#"
+#[params.cookies]
+#enable = true
+#expire_days = 2
+#
+## social site
+#[[params.social]]
+#icon = "ti-facebook"
+#URL = "#"
+#
+#[[params.social]]
+#icon = "ti-instagram"
+#URL = "#"
+#
+#[[params.social]]
+#icon = "ti-dribbble"
+#URL = "#"
+#
+#[[params.social]]
+#icon = "ti-twitter-alt"
+#URL = "#"
 
 [markup.goldmark.renderer]
 unsafe= true
