@@ -2,45 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>communication on Cristalea</title>
-    <link>http://localhost:1313/tags/communication/</link>
+    <link>https://cristalea.fr/tags/communication/</link>
     <description>Recent content in communication on Cristalea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/communication/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Les 3 meilleurs outils pour le Community manager</title>
-      <link>http://localhost:1313/marketing/les-3-meilleurs-outils-pour-le-community-manager/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/marketing/les-3-meilleurs-outils-pour-le-community-manager/</guid>
-      <description>Il existe trois grandes étapes lorsque l&amp;rsquo;on travaille en tant que community Manager.</description>
-    </item>
-    
-    <item>
-      <title>Le native advertising : Attention, la pub est partout, même là où elle n&#39;est pas !</title>
-      <link>http://localhost:1313/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/</guid>
-      <description>En regardant des vidéos sur votre feed Facebook ou Instagram, ne vous êtes vous jamais dis : &amp;ldquo;Tiens, c&amp;rsquo;est l&amp;rsquo;acteur de Stranger Things&amp;rdquo;, ou en lisant un article sur Internet &amp;ldquo;Ouah, les locaux de Coca-Cola ont l&amp;rsquo;air trop moderne&amp;rdquo; ?</description>
-    </item>
-    
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cristalea.fr/tags/communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;effet Gruen, ou l&#39;effet Ikea !</title>
-      <link>http://localhost:1313/marketing/leffet-gruen-la-conception-dun-magasin-est-importante/</link>
+      <link>https://cristalea.fr/marketing/leffet-gruen-la-conception-dun-magasin-est-importante/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/marketing/leffet-gruen-la-conception-dun-magasin-est-importante/</guid>
+      <guid>https://cristalea.fr/marketing/leffet-gruen-la-conception-dun-magasin-est-importante/</guid>
       <description>N&amp;rsquo;avez vous jamais eu l&amp;rsquo;impression d&amp;rsquo;être dans un magasin en ayant oublié le but de votre visite ?</description>
-    </item>
-    
-    <item>
-      <title>La sémantique visuelle en communication</title>
-      <link>http://localhost:1313/marketing/la-semantique-visuelle-en-communication/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/marketing/la-semantique-visuelle-en-communication/</guid>
-      <description>La sémantique au sens large du terme représente l&amp;rsquo;étude et l&amp;rsquo;analyse des signifiés d&amp;rsquo;un énoncé, c&amp;rsquo;est à dire les mots, leur sens, leur liens les uns aux autres.</description>
     </item>
     
   </channel>

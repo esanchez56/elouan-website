@@ -9,7 +9,7 @@ tags:
   - "gruen"
   - "marketing"
   - "vente"
-draft: True
+
 ---
 
 N'avez vous jamais eu l'impression d'être dans un magasin en ayant oublié le but de votre visite ? Vous êtes probablement tombés sous "l'effet de transfert de Gruen ! "
@@ -20,7 +20,7 @@ L'effet de Gruen, ou connu également comme le transfert de Gruen, est inspiré 
 
 Cependant, celui-ci réfute l'idée d'avoir instauré un système de technique de manipulation.
 
-![Victor gruen ](images/back-books_gruen-ump-gruen-fig04-01_resize-e1533784840443.jpg)
+<img src="/Users/elouansanchez/Desktop/back-books_gruen-ump-gruen-fig04-01_resize-e1533784840443.jpeg" alt="back-books_gruen-ump-gruen-fig04-01_resize-e1533784840443" style="zoom:67%;" />
 
 ## En quoi consiste t-il ?
 
@@ -30,4 +30,3 @@ Afin de bien comprendre cet effet, le meilleur exemple est Ikea :
 
 L'objectif de la structure du magasin d'Ikea est de faire passer le client dans chaque recoin du magasin, du jardin à la cuisine en passant par le restaurant. Grâce à un chemin bien tracé, à de la musique calme et des "showroom" modernes et attrayants, le client se laisse guider et ressort bien souvent du magasin avec des produits dont il n'avait pas besoin lors de son entrée dans la structure !
 
-![Ikea](images/979924235_1aecfec206_b.jpg)
