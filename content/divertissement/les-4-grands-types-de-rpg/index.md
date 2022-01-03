@@ -21,7 +21,7 @@ Choisissez vos armes, vos compétences et votre physique et partez à la découv
 
 On peut citer par exemple : Zelda, Skyrim, Over World, Slime Rancher...
 
-![](gray-concrete-triumphal-arch-surrounded-by-flowers-1055068-1024x683.jpg)
+<img src="gray-concrete-triumphal-arch-surrounded-by-flowers-1055068-1024x683.jpg" style="zoom:67%;" />
 
 ## Tactical RPG
 
@@ -41,7 +41,7 @@ Choisissez entre plusieurs héros aux pouvoirs différents, du magicien au cheva
 
 On peut citer par exemple Diablo, The Binding of Isaac ou encore Spelunky...
 
-![](Nuclear_Throne_screenshot_03-1024x576.png)
+<img src="Nuclear_Throne_screenshot_03-1024x576.png" style="zoom:67%;" />
 
 ## MMORPG
 

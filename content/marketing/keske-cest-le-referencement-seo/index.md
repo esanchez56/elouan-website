@@ -8,7 +8,7 @@ tags:
   - "marketing"
   - "referencement"
   - "seo"
-
+draft: True
 ---
 
 Facebook, Apple ou bien encore Nintendo, il n'est pas difficile pour un internaute de trouver des informations sur Internet sans pour autant rechercher l'information. Mais comment ces sociétés font-elles pour être omniprésentes dans le référencement ? Découvrons le référencement SEO !

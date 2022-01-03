@@ -8,7 +8,7 @@ tags:
   - "dropshipping"
   - "marketing"
   - "vente"
-draft: True
+
 ---
 
 Vous devez entendre de tous les cotés sur Internet le terme de dropshipping ? Mais connaissez-vous vraiment ce style de commerce en ligne et de marketing pas comme les autres ?
@@ -17,7 +17,7 @@ Vous devez entendre de tous les cotés sur Internet le terme de dropshipping ? M
 
 Le dropshipping est un système de ventes en tripartie (3 parties prenantes sont en relation directe où indirecte) sur internet. Dans ce système, le client, c'est à dire vous, va passer commande sur un site internet (le dropshipper) pour un produit quelconque (très rarement pour un service). Une fois la commande passée, le dropshipper va prendre une marge sur ce produit (une partie de l'argent de la vente va donc lui revenir), puis envoyer votre commande au site internet d'ou vient le produit réellement. Enfin, c'est ce même site internet qui va vous envoyer le produit.
 
-![dropshipping](images/La-rentrée-avec-SISSEL-France.png)
+<img src="/Users/elouansanchez/Downloads/Publication Insta.png" alt="Publication Insta" style="zoom:33%;" />
 
 Pour résumer, le dropshipper n'est qu'un intermédiaire dans la vente entre le site et vous même !
 
@@ -52,4 +52,4 @@ Pour éviter ce genre d'arnaque, renseignez-vous lorsqu'une marque vous semble �
 
 Pour plus d'informations, je vous laisse découvrir la vidéo d'Uncréatif sur le sujet
 
-https://www.youtube.com/watch?v=OHScMZK\_cG8
+https://www.youtube.com/watch?v=OHScMZK
