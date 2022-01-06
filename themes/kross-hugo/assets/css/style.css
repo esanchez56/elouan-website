@@ -16,21 +16,28 @@ VERSION: Versoin Number
   background-image : url(/images/cat/divertissement.jpg);
   background-repeat: no-repeat, repeat;
   background-position:center;
-  background-size: auto 100%;
+  
   content:"coucou";
   color:white;
   height: 267px;
+  background-position: 37%;
+  background-size: auto 100%;
 }
 .pic-c{
   text-align:center;
 }
-.divertissement:hover, .management:hover, .marketing:hover{
-  box-shadow: 0 0 40px green;
+.divertissement:hover, .marketing:hover{
+  box-shadow: 0 0 40px #0c2d6a;
+}
+.management:hover{
+  box-shadow: 0 0 40px #ffeb1c;
+  background-position: 37%;
+  background-size: auto 170%;
 }
 .forceWhite{
   color:white;
   text-shadow: #000 1px 0 10px;
-  margin-top:40px;
+  margin-top:70px;
   
 }
 .management{
@@ -41,12 +48,14 @@ VERSION: Versoin Number
   content:"coucou";
   height: 267px;
   color:white;
+  background-position: 37%;
+  background-size: auto 170%;
 }
 .marketing{
   background-image : url(/images/cat/marketing.jpg);
   background-repeat: no-repeat, repeat;
   background-position:center;
-  background-size: auto 100%;
+  background-size: auto 170%;
   content:"coucou";
   color:white;
   height: 267px;
@@ -89,18 +98,15 @@ h1,
 
   h1,
   .h1 {
-    font-size: 65px
+    font-size: 40px
   }
 }
 
 h2,
 .h2 {
   font-size: 60px;
-  
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-color: #B721FF;
-background-image: linear-gradient(270deg, #B721FF 0%, #341b71 100%);
+  color:rgba(12,45,106,1);
+
 
 }
 
@@ -989,6 +995,7 @@ blockquote {
 p img {
   width: 100%;
 }
+
 img[style^="zoom: 25"] {
   width:25%;
   margin-right:37.5%;
@@ -996,23 +1003,24 @@ img[style^="zoom: 25"] {
 }
 
 
-img[style^="zoom: 33"] {
+img[style^="zoom:33"] {
   width:33%;
   margin-right:33%;
   margin-left:33%;
 }
-img[style^="zoom: 50"] {
+img[style^="zoom:50"] {
   width:50%;
   margin-right:25%;
   margin-left:25%;
 }
-img[style^="zoom: 67"] {
+img[style^="zoom:67"]{
   width:67%;
   margin-right: 16.5%;
-  margin-right: 16.5%;
+  margin-left: 16.5%;
 }
 
 .content p:first-child{
   text-align:center;
   font-weight:bold;
+  font-size:18px;
 }
