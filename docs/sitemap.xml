@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cristalea.fr/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/communication/</loc>
+    <loc>http://localhost:1313/tags/communication/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/gruen/</loc>
+    <loc>http://localhost:1313/tags/gruen/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/marketing/leffet-gruen-la-conception-dun-magasin-est-importante/</loc>
+    <loc>http://localhost:1313/marketing/leffet-gruen-la-conception-dun-magasin-est-importante/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/marketing/</loc>
+    <loc>http://localhost:1313/tags/marketing/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/categories/marketing/</loc>
+    <loc>http://localhost:1313/categories/marketing/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/marketing/</loc>
+    <loc>http://localhost:1313/marketing/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/vente/</loc>
+    <loc>http://localhost:1313/tags/vente/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/dropshipping/</loc>
+    <loc>http://localhost:1313/tags/dropshipping/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/marketing/le-dropshipping-le-marketing-de-demain/</loc>
+    <loc>http://localhost:1313/marketing/le-dropshipping-le-marketing-de-demain/</loc>
     <lastmod>2020-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/divertissement/</loc>
+    <loc>http://localhost:1313/tags/divertissement/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/categories/divertissement/</loc>
+    <loc>http://localhost:1313/categories/divertissement/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/divertissement/</loc>
+    <loc>http://localhost:1313/divertissement/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/divertissement/les-4-grands-types-de-rpg/</loc>
+    <loc>http://localhost:1313/divertissement/les-4-grands-types-de-rpg/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/mmorp/</loc>
+    <loc>http://localhost:1313/tags/mmorp/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/rpg/</loc>
+    <loc>http://localhost:1313/tags/rpg/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/world-of-warcraft/</loc>
+    <loc>http://localhost:1313/tags/world-of-warcraft/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/management/4-couleurs-4-profil-decouvrez-le-votre/</loc>
+    <loc>http://localhost:1313/management/4-couleurs-4-profil-decouvrez-le-votre/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/couleur/</loc>
+    <loc>http://localhost:1313/tags/couleur/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/management/</loc>
+    <loc>http://localhost:1313/tags/management/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/categories/management/</loc>
+    <loc>http://localhost:1313/categories/management/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/management/</loc>
+    <loc>http://localhost:1313/management/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/manager/</loc>
+    <loc>http://localhost:1313/tags/manager/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cristalea.fr/tags/psychologie/</loc>
+    <loc>http://localhost:1313/tags/psychologie/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>

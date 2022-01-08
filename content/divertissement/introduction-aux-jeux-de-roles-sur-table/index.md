@@ -23,7 +23,7 @@ Un jeu de rôle sur table est une activité de groupe. Dans ce groupe, les diff�
 
 Tous ensembles, les joueurs vont découvrir un monde avec sa politique, son histoire, ses personnages, le tout narré par le maitre du jeu. Dans un jeu de rôle sur table, tout le jeu se déroule grâce à des lancements de dés !
 
-![](téléchargement.jpeg)
+<img src="téléchargement.jpeg" style="zoom:67%;" />
 
 ## Historique
 

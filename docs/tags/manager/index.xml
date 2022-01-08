@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>manager on Cristalea</title>
-    <link>https://cristalea.fr/tags/manager/</link>
+    <link>http://localhost:1313/tags/manager/</link>
     <description>Recent content in manager on Cristalea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cristalea.fr/tags/manager/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/manager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4 couleurs - 4 profils, Découvrez le vôtre !</title>
-      <link>https://cristalea.fr/management/4-couleurs-4-profil-decouvrez-le-votre/</link>
+      <link>http://localhost:1313/management/4-couleurs-4-profil-decouvrez-le-votre/</link>
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cristalea.fr/management/4-couleurs-4-profil-decouvrez-le-votre/</guid>
+      <guid>http://localhost:1313/management/4-couleurs-4-profil-decouvrez-le-votre/</guid>
       <description>Les couleurs sont et seront toujours utilisées dans le Marketing. En effet, les couleurs font naître en chacun d&amp;rsquo;entre nous une émotion, un sentiment.</description>
     </item>
     

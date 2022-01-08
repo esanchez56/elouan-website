@@ -20,7 +20,7 @@ En 2002, en Europe, est sorti le 1er opus d'Animal Crossing. L'objectif de ce je
 
 L'arrivé de ce jeu à été une véritable bouffée d'air frais pour Nintendo avec d'excellents retours de la part des clients, notamment au Japon, pays de la culture Kawaii (Mignonne). En effet, en parallèle de l'arrivée de la Playstation 2, les joueurs ont aimé trouver, dans Animal Crossing, une expérience immersive dans un univers original.
 
-https://www.youtube.com/watch?v=fNxjGDGBYlg
+<iframe width="731" height="548" src="https://www.youtube.com/embed/fNxjGDGBYlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Trailer Animal Crossing
 
