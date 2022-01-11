@@ -20,7 +20,7 @@ L'effet de Gruen, ou connu également comme le transfert de Gruen, est inspiré 
 
 Cependant, celui-ci réfute l'idée d'avoir instauré un système de technique de manipulation.
 
-<img src="back-books_gruen-ump-gruen-fig04-01_resize-e1533784840443.jpg" alt="back-books_gruen-ump-gruen-fig04-01_resize-e1533784840443" style="zoom:67%;" />
+<img src="back-books_gruen-ump-gruen-fig04-01_resize-e1533784840443.jpg" alt="Victor Gruen " style="zoom: 50%;" />
 
 ## En quoi consiste t-il ?
 
