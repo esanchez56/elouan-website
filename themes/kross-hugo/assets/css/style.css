@@ -84,9 +84,10 @@ h4,
 h5,
 h6 {
   color: #000;
-  font-family: 'Montserrat', sans-serif;
+  font-family: montserrat,sans-serif;
   line-height: 1.2;
   font-weight: 1000;
+  text-transform: capitalize;
 }
 
 h1,
@@ -140,7 +141,7 @@ h6,
 
 .btn {
   font-size: 22px;
-  font-family: playfair display, serif;
+  font-family: montserrat,sans-serif;
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -996,7 +997,7 @@ p img {
   width: 100%;
 }
 
-img[style^="zoom: 25"] {
+img[style^="zoom:25"] {
   width:25%;
   margin-right:37.5%;
   margin-left:37.5%;
@@ -1018,9 +1019,46 @@ img[style^="zoom:67"]{
   margin-right: 16.5%;
   margin-left: 16.5%;
 }
+img[style^="zoom: 25"] {
+  width:25%;
+  margin-right:37.5%;
+  margin-left:37.5%;
+}
 
+
+img[style^="zoom: 33"] {
+  width:33%;
+  margin-right:33%;
+  margin-left:33%;
+}
+img[style^="zoom: 50"] {
+  width:50%;
+  margin-right:25%;
+  margin-left:25%;
+}
+img[style^="zoom: 67"]{
+  width:67%;
+  margin-right: 16.5%;
+  margin-left: 16.5%;
+}
 .content p:first-child{
   text-align:center;
   font-weight:bold;
   font-size:18px;
+}
+
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+  max-height: 230px;
+  
+}
+.card-body p{
+  overflow-y: clip;
+    height: 49px;
+}
+article.card.shadow{
+  height:100%;
 }

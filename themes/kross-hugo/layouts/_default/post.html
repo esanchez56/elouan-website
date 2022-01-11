@@ -2,11 +2,30 @@
   <article class="card shadow">
     <a href="{{.Permalink}}" title="{{.Title }}" class="pic-c">
       {{$url := print .Permalink "/" .Params.Image}}
+      {{$rel := print .RelPermalink "a.png"}}
+      
       {{ with .Resources.ByType "image" }}
+              
               {{$firstimage := first 1 . }}
               {{$firstimage := index $firstimage 0}}
-              {{$def := print $.Permalink "/" $firstimage}}
-              <img src="{{$def}}" alt="{{$.Title}}" class="img-fluid rounded mb-4">
+              {{$def := "a"}}
+              {{ if (os.FileExists $rel) }}
+              <img src="{{$rel}}" alt="{{$.Title}}" class="img-fluid rounded mb-4">
+                {{else}}
+                {{$def := print $.Permalink $firstimage}}
+                <img src="{{$def}}" alt="{{$.Title}}" class="img-fluid rounded mb-4">
+              {{end}}
+      {{else}}
+      {{if (eq .RelPermalink "/categories/divertissement/")}}
+      <img src="/divertissement/divertissement.jpg" alt="{{$.Title}}" class="img-fluid rounded mb-4">
+      
+      {{else if (eq .RelPermalink "/categories/management/")}}
+      <img src="/management/management.jpg" alt="{{$.Title}}" class="img-fluid rounded mb-4">
+      {{else if (eq .RelPermalink "/categories/marketing/")}}
+      <img src="/marketing/marketing.jpg" alt="{{$.Title}}" class="img-fluid rounded mb-4">
+      {{else}}
+      Pas d'image dans le dossier
+      {{end}}
       {{end}}</a>
     <div class="card-body">
       <h4 class="card-title"><a class="text-dark" href="{{.Permalink}}">{{.Title }}</a>
