@@ -31,7 +31,7 @@ Choisissez les bonnes unités et analyser le terrain et ses opportunités et ses
 
 On peut citer par exemple : Fire Emblem tactical, Wargroove ou Mario Kingdom Battle..
 
-https://www.youtube.com/watch?v=J96cGy2xdhA
+<iframe width="917" height="516" src="https://www.youtube.com/embed/J96cGy2xdhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Rogue Like
 
