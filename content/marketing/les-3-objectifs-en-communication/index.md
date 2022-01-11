@@ -4,7 +4,7 @@ slug: "les-3-objectifs-en-communication"
 date: "2020-12-24"
 categories: 
   - "marketing"
-draft: True
+
 ---
 
 Il est essentiel pour chaque campagne de communication, que ce soit une campagne de Facebook Ads ou une campagne de street marketing, de déceler les 3 objectifs de communication. Ces objectifs permettent de définir la marche à suivre afin de réussir à atteindre ses objectifs en temps et en heure !
