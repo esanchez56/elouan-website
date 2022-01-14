@@ -29,11 +29,9 @@ La publicité ne se limite pas à de simples affiches publicitaires, mais elle e
 
 Il est donc normal que les entreprises cherchent à se démarquer des autres par le visuel, en proposant des publicités de plus en plus colorées, choquantes ou tout simplement innovantes !
 
-Ces publicités utilisent la méthode AIDA, découvrez notre [article](https://keskec.fr/marketing/elouan/242/) !
-
 ## L'odorat 👃
 
-![](food-france-morning-breakfast-2135-768x1024.jpg)
+<img src="W-2179074.jpg" alt="W" style="zoom:33%;" />
 
 C'est le début de votre journée et vous vous baladez en ville. Vous passez devant une boulangerie et soudainement une odeur de pain frais envahit la rue, tout en vous donnant l'envie de manger une baguette !
 
@@ -51,9 +49,9 @@ Il est important pour ce type d'argument de vente de donner une preuve aux clien
 
 Une petite balade dans un magasin Nature et Découverte, et vous comprendrez l'utilité de l'ouïe dans le marketing. En effet, le bruit d'une cascade d'eau, ou d'un gong asiatique amplifient le coté zen et relaxant du magasin, et plonge donc le client dans une ambiance différente.
 
-![](bridge-cascade-environment-fall-358457-1-682x1024.jpg)
+<img src="Z.jpg" alt="Z" style="zoom: 25%;" />
 
-Le Laos est un beau [pays](https://www.routard.com/guide/code_dest/laos.htm) !
+​																	Le Laos est un beau [pays](https://www.routard.com/guide/code_dest/laos.htm) !
 
 Les bruitages, la musique ou bien encore les paroles permettent de donner une émotion, de faire voyager vos clients dans l'univers de votre entreprise, ce qui est l'objectif principal du Marketing Sensoriel !
 

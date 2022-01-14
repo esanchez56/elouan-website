@@ -12,26 +12,5 @@ hugo v0.88.1+extended darwin/amd64 BuildDate=unknown
   Sitemaps         |  1  
   Cleaned          |  0  
 
-Built in 128 ms
-Watching for changes in /Users/elouansanchez/elouan-website/{content,data,static,themes}
-Watching for config changes in /Users/elouansanchez/elouan-website/config.toml
-Environment: "development"
-Serving pages from /Users/elouansanchez/elouan-website/docs
-Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
-Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
-Press Ctrl+C to stop
-
-Change detected, rebuilding site.
-2022-01-11 17:12:01.830 +0100
-Template changed "/Users/elouansanchez/elouan-website/themes/kross-hugo/layouts/_default/post.html": WRITE
-Total in 36 ms
-
-Change detected, rebuilding site.
-2022-01-11 17:12:20.321 +0100
-Template changed "/Users/elouansanchez/elouan-website/themes/kross-hugo/layouts/_default/post.html": WRITE
-Total in 31 ms
-
-Change detected, rebuilding site.
-2022-01-11 17:12:47.820 +0100
-Template changed "/Users/elouansanchez/elouan-website/themes/kross-hugo/layouts/_default/post.html": WRITE
-Total in 20 ms
+Total in 67 ms
+Déjà à jour.
