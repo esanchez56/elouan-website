@@ -12,7 +12,7 @@ tags:
   - "sens"
   - "toucher"
   - "vue"
-draft: True
+
 ---
 
 Le cerveau adore les expériences multisensorielles. Plus vos sens sont sollicités, plus votre cerveau a de chances d’être attiré par le produit ou le service présenté.
