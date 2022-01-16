@@ -515,10 +515,16 @@ textarea.form-control {
 .hero-area {
   padding: 250px 0 200px;
   position: relative;
-  background: rgb(15,32,106)!important;
-  background: linear-gradient(79deg, rgba(15,32,106,1) 0%, rgba(22,96,201,1) 100%)!important;
-}
+  background: linear-gradient(63deg, #0c2d6a, #00d78d)!important;
+  background-size: 400% 400%!important;
+  animation: abc 22s ease infinite!important;
 
+}
+@keyframes abc{
+  0%{background-position:0% 53%}
+  50%{background-position:100% 48%}
+  100%{background-position:0% 53%}
+}
 @media(max-width:767px) {
   .hero-area {
     padding: 200px 0 150px;
