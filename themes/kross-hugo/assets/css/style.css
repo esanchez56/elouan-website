@@ -514,7 +514,9 @@ textarea.form-control {
 
 .hero-area {
   padding: 250px 0 200px;
-  position: relative
+  position: relative;
+  background: rgb(15,32,106)!important;
+  background: linear-gradient(79deg, rgba(15,32,106,1) 0%, rgba(22,96,201,1) 100%)!important;
 }
 
 @media(max-width:767px) {
