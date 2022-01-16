@@ -1,5 +1,5 @@
 ---
-title: "Le native advertising : Attention, la pub est partout, même là où elle n'est pas !"
+title: "Le native advertising"
 slug: "le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas"
 date: "2020-11-21"
 categories: 
@@ -25,8 +25,6 @@ En effet, les publicités classiques sur un site internet (bannières, encarts o
 Ces entreprises peuvent alors demander à leurs cadres de réaliser des interviews sur des médias de divertissement, réaliser une visite virtuelle de leurs locaux ou encore organiser des jeux concours ! Toutes ces solutions permettent de créer du contenu divertissant tout en promouvant la marque de manière subtile !
 
 ## Exemple :
-
-![native advertising](images.jpeg)
 
 Le site d'information français [Konbin](https://www.konbini.com/fr)i, certains articles ou arrières-plans sont du contenu Native Advertising de qualité (comme par exemple les Fast and Curious)
 
