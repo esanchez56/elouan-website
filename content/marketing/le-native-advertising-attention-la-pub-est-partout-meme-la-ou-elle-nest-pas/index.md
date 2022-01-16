@@ -1,5 +1,5 @@
 ---
-title: "Le native advertising : Attention, la pub est partout, même là où elle n'est pas !"
+title: "Le native advertising : La pub est partout, même là où elle n'est pas !"
 slug: "le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas"
 date: "2020-11-21"
 categories: 
