@@ -3,14 +3,14 @@ hugo v0.88.1+extended darwin/amd64 BuildDate=unknown
 
                    | EN  
 -------------------+-----
-  Pages            | 76  
+  Pages            | 89  
   Paginator pages  |  0  
-  Non-page files   | 24  
+  Non-page files   | 27  
   Static files     | 65  
   Processed images |  0  
   Aliases          |  0  
   Sitemaps         |  1  
   Cleaned          |  0  
 
-Total in 140 ms
-Déjà à jour.
+Total in 139 ms
+Mise à jour 5ef303c..e665ac4

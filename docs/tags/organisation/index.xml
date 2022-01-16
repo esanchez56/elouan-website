@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organisation on Cristalea</title>
+    <link>https://cristalea.fr/tags/organisation/</link>
+    <description>Recent content in organisation on Cristalea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cristalea.fr/tags/organisation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La roue de Hudson et le changement professionnel</title>
+      <link>https://cristalea.fr/management/la-roue-du-changement-en-management-de-projet/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristalea.fr/management/la-roue-du-changement-en-management-de-projet/</guid>
+      <description>La roue de Hudson est un outil permettant à toute personne qui prévoit un changement dans sa vie professionnelle de se repérer dans le processus de son projet.</description>
+    </item>
+    
+  </channel>
+</rss>
