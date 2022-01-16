@@ -32,6 +32,8 @@ Les 5 leviers suivants sont ceux-ci.
 
 Ces différents leviers ont pour objectif de donner un cadre de conduite du changement aux personnes habilitées. Ainsi, les managers/consultants peuvent, à tout moment, se référer à cette roue dans le but de vérifier le bon fonctionnement du processus et d'identifier, s'ils existent, les points de dysfonctionnement.
 
+Cet article a été rédigé par [Johann Pillet](https://www.linkedin.com/search/results/all/?keywords=johann%20pillet&origin=RICH_QUERY_SUGGESTION&position=2&searchId=072783a2-4a8e-4119-b076-66889ba5f202&sid=TsT) 
+
 ## Pour aller plus loin :
 
 - [Les travaux de Kanter](https://www.changement.pm/blog/rosabeth-moss-kanter/)

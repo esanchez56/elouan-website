@@ -3,7 +3,6 @@ title: "La roue de Hudson et le changement professionnel"
 slug: "la-roue-du-changement-en-management-de-projet"
 date: "2020-07-03"
 categories: 
-  - "gestion-du-changement"
   - "management"
 tags: 
   - "changement"
