@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>das on Cristalea</title>
-    <link>http://localhost:1313/tags/das/</link>
+    <link>https://cristalea.fr/tags/das/</link>
     <description>Recent content in das on Cristalea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/das/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cristalea.fr/tags/das/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Les 4 stratégies Globales : Comment placer votre offre ?</title>
-      <link>http://localhost:1313/management/les-4-strategies-globales-comment-placer-votre-offre/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <title>La matrice SWOT</title>
+      <link>https://cristalea.fr/management/la-matrice-swot/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/management/les-4-strategies-globales-comment-placer-votre-offre/</guid>
-      <description>Vous lancez votre entreprise et vous avez envie d&amp;rsquo;appliquer une seule et même stratégie à votre entreprise ?</description>
+      <guid>https://cristalea.fr/management/la-matrice-swot/</guid>
+      <description>La matrice SWOT est un outil utilisé dans le cadre d&amp;rsquo;un diagnostic global de l&amp;rsquo;entreprise.</description>
     </item>
     
   </channel>
