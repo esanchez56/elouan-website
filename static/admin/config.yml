@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: RobinPourtaud/RobinPourtaud.github.io
+  repo: esanchez56/elouan-website
   branch: master
   site_domain: laughing-blackwell-559bd8.netlify.com
 
