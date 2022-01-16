@@ -26,8 +26,6 @@ Ces entreprises peuvent alors demander à leurs cadres de réaliser des intervie
 
 ## Exemple :
 
-![native advertising](images.jpeg)
-
 Le site d'information français [Konbin](https://www.konbini.com/fr)i, certains articles ou arrières-plans sont du contenu Native Advertising de qualité (comme par exemple les Fast and Curious)
 
 Découvrez le [marketing sensoriel](https://cristalea.fr/marketing/le-marketing-sensoriel-un-voyage-des-5-sens/) en 5 minutes, le combo parfait entre street marketing et Native Advertising !
