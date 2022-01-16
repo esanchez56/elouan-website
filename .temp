@@ -3,7 +3,7 @@ hugo v0.88.1+extended darwin/amd64 BuildDate=unknown
 
                    | EN  
 -------------------+-----
-  Pages            | 90  
+  Pages            | 88  
   Paginator pages  |  0  
   Non-page files   | 29  
   Static files     | 65  
@@ -12,5 +12,5 @@ hugo v0.88.1+extended darwin/amd64 BuildDate=unknown
   Sitemaps         |  1  
   Cleaned          |  0  
 
-Total in 168 ms
+Total in 147 ms
 Déjà à jour.

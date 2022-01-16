@@ -3,7 +3,6 @@ title: "La roue du changement de Kanter"
 slug: "la-roue-du-changement"
 date: "2020-07-01"
 categories: 
-  - "gestion-du-changement"
   - "management"
 
 ---
