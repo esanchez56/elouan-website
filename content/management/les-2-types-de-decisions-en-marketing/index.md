@@ -9,7 +9,7 @@ tags:
   - "decision"
   - "marketing"
   - "strategie"
-draft: True
+
 ---
 
 Le Marketing représente l'ensemble des actions qui ont pour objectif de prévoir ou de constater les besoins présents et futurs du consommateur au sein d'une catégorie de produits ou de services. Les décisions Marketing peuvent être classées en 2 catégories, découvrons les !
@@ -24,8 +24,6 @@ On retrouve la plupart du temps 4 critères communs à toute décision stratégi
 - Elle implique l'entreprise sur le long terme (+ de 2 ans)
 - Des coûts élevés sont généralement engendrés
 - Cette décision est quasiment irréversible
-
-![](top-view-photo-of-people-near-wooden-table-3183150-2-1-1024x683.jpg)
 
 ## Décision Opérationelle
 

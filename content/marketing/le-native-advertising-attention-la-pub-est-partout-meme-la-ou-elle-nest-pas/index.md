@@ -11,7 +11,7 @@ tags:
   - "marque"
   - "psychologie"
   - "publicite"
-draft: True
+
 ---
 
 En regardant des vidéos sur votre feed Facebook ou Instagram, ne vous êtes vous jamais dis : "Tiens, c'est l'acteur de Stranger Things", ou en lisant un article sur Internet "Ouah, les locaux de Coca-Cola ont l'air trop moderne" ? Et bien vous avez découvert les effets du Native Advertising !
@@ -26,8 +26,9 @@ Ces entreprises peuvent alors demander à leurs cadres de réaliser des intervie
 
 ## Exemple :
 
-![Native Advertising](images/unnamed.png)
+![native advertising](images.jpeg)
 
 Le site d'information français [Konbin](https://www.konbini.com/fr)i, certains articles ou arrières-plans sont du contenu Native Advertising de qualité (comme par exemple les Fast and Curious)
 
-Découvrez le [marketing sensoriel](https://keskec.fr/marketing/elouan/1012/) en 5 minutes, le combo parfait entre street marketing et Native Advertising !
+Découvrez le [marketing sensoriel](https://cristalea.fr/marketing/le-marketing-sensoriel-un-voyage-des-5-sens/) en 5 minutes, le combo parfait entre street marketing et Native Advertising !
+

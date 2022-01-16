@@ -6,11 +6,167 @@ hugo v0.88.1+extended darwin/amd64 BuildDate=unknown
   Pages            | 64  
   Paginator pages  |  0  
   Non-page files   | 20  
-  Static files     | 83  
+  Static files     | 63  
   Processed images |  0  
   Aliases          |  0  
   Sitemaps         |  1  
   Cleaned          |  0  
 
-Total in 162 ms
-Déjà à jour.
+Built in 140 ms
+Watching for changes in /Users/elouansanchez/elouan-website/{content,data,static,themes}
+Watching for config changes in /Users/elouansanchez/elouan-website/config.toml
+Environment: "development"
+Serving pages from /Users/elouansanchez/elouan-website/docs
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change of Static files detected, rebuilding site.
+2022-01-16 14:26:45.729 +0100
+File no longer exists in static dir, removing /Users/elouansanchez/elouan-website/docs/images/favicon.svg
+
+Change of Static files detected, rebuilding site.
+2022-01-16 14:26:46.231 +0100
+Syncing images/favicon.svg to /Users/elouansanchez/elouan-website/docs/
+
+Change detected, rebuilding site.
+2022-01-16 14:27:55.237 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/a.png": CREATE
+Total in 36 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:29:21.234 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index~.md": REMOVE
+Total in 23 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:30:43.730 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/images.jpeg": CREATE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:31:17.234 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:31:38.232 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 14 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:31:39.731 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 14 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:31:40.230 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:31:41.731 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:31:59.229 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:31:59.729 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 7 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:00.234 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 8 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:00.734 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:01.232 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:01.732 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:02.232 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 6 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:02.732 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 7 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:03.229 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:03.730 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:26.733 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:27.234 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 13 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:27.734 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:28.233 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:32:28.734 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/index.md": CREATE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:35:28.245 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/management/les-2-types-de-decisions-en-marketing/a.png": CREATE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:35:44.255 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/management/les-2-types-de-decisions-en-marketing/index.md": CREATE
+Source changed "/Users/elouansanchez/elouan-website/content/management/les-2-types-de-decisions-en-marketing/index~.md": REMOVE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:35:44.754 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/management/les-2-types-de-decisions-en-marketing/index.md": CREATE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:35:45.253 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/management/les-2-types-de-decisions-en-marketing/index.md": CREATE
+Total in 6 ms
+
+Change detected, rebuilding site.
+2022-01-16 14:35:45.754 +0100
+Source changed "/Users/elouansanchez/elouan-website/content/management/les-2-types-de-decisions-en-marketing/index.md": CREATE
+Total in 10 ms

@@ -2,27 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>publicite on Cristalea</title>
-    <link>http://localhost:1313/tags/publicite/</link>
+    <link>https://cristalea.fr/tags/publicite/</link>
     <description>Recent content in publicite on Cristalea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/publicite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cristalea.fr/tags/publicite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le native advertising : Attention, la pub est partout, même là où elle n&#39;est pas !</title>
-      <link>http://localhost:1313/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/</link>
+      <link>https://cristalea.fr/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/</guid>
+      <guid>https://cristalea.fr/marketing/le-native-advertising-attention-la-pub-est-partout-meme-la-ou-elle-nest-pas/</guid>
       <description>En regardant des vidéos sur votre feed Facebook ou Instagram, ne vous êtes vous jamais dis : &amp;ldquo;Tiens, c&amp;rsquo;est l&amp;rsquo;acteur de Stranger Things&amp;rdquo;, ou en lisant un article sur Internet &amp;ldquo;Ouah, les locaux de Coca-Cola ont l&amp;rsquo;air trop moderne&amp;rdquo; ?</description>
-    </item>
-    
-    <item>
-      <title>La Méthode AIDA en 4 points</title>
-      <link>http://localhost:1313/marketing/keske-cest-la-methode-aida/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/marketing/keske-cest-la-methode-aida/</guid>
-      <description>La méthode AIDA, pour Attention, Intérêt, Désir et Action, est utilisée en Marketing et communication afin d&amp;rsquo;optimiser au mieux une campagne de publicité, la création d&amp;rsquo;un site web ou toute autre opération marketing.</description>
     </item>
     
   </channel>
