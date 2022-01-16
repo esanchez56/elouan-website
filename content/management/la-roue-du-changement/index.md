@@ -5,7 +5,7 @@ date: "2020-07-01"
 categories: 
   - "gestion-du-changement"
   - "management"
-draft: True
+
 ---
 
 La roue du changement est un outil à destination des consultants et managers chargés d'initier le changement au sein des organisations. Il peut s'agir de changements propres au fonctionnement d'un seul service, ou même d'un changement structurel de l'organisation.
@@ -14,8 +14,6 @@ La roue du changement est un outil à destination des consultants et managers ch
 
 Cette roue repose sur 10 points, dont l'analyse permet de mieux cerner les leviers sur lesquels il faut nécessairement se concentrer afin de réussir à effectuer ce changement dans de bonnes conditions. En effet, la vision de Kanter induit que le changement est un processus continu, et l'utilisation de cette roue comme cadre de référence permet de le planifier et de l'accompagner. Les 5 premiers leviers sont les suivants :
 
-![](images/Roue-du-changement-Kanter-copie.png)
-
 Les 5 premiers leviers mis en lumière par Kanter.
 
 - La vision partagée, on cherche une situation où les collaborateurs et managers travaillent ensemble afin d'obtenir une vision réaliste de l'organisation et de son mode de fonctionnement.
@@ -23,8 +21,6 @@ Les 5 premiers leviers mis en lumière par Kanter.
 - Une communication et des échanges sur les bonnes pratiques à mettre en place.
 - La volonté de tous d'obtenir des progrès rapides.
 - La mise en place d'un système de reconnaissances/récompenses incitant les personnes à changer leurs habitudes.
-
-![](images/Roue-du-changement-Kanter-copie.png)
 
 Les 5 leviers suivants sont ceux-ci.
 

@@ -16,7 +16,7 @@ tags:
 
 La roue de Hudson est un outil permettant à toute personne qui prévoit un changement dans sa vie professionnelle de se repérer dans le processus de son projet. Plus qu'un guide, cet outil est également utile dans le cas où tout ne se passe pas comme prévu et où des modifications doivent être apportées au projet initial.
 
-Attention à ne pas confondre ce schéma avec [La roue du changement de Kanter](https://keskec.fr/management/johann/3282/), qui est un outil utilisé dans la gestion du changement au sein des organisations.
+Attention à ne pas confondre ce schéma avec [La roue du changement de Kanter](https://cristalea.fr/management/la-roue-du-changement-en-management-de-projet/), qui est un outil utilisé dans la gestion du changement au sein des organisations.
 
 Cet outil se décline en 10 étapes, en fonction de votre avancée dans le changement. Cependant, il n'est pas nécessaire d'effectuer ces 10 étapes pour qu'un projet soit réussi. Il faut avant tout que les 3 premières étapes se déroulent sans encombre.
 
