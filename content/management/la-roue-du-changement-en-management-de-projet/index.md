@@ -20,7 +20,7 @@ Attention à ne pas confondre ce schéma avec [La roue du changement de Kanter](
 
 Cet outil se décline en 10 étapes, en fonction de votre avancée dans le changement. Cependant, il n'est pas nécessaire d'effectuer ces 10 étapes pour qu'un projet soit réussi. Il faut avant tout que les 3 premières étapes se déroulent sans encombre.
 
-![cycles_hudson3](cycles_hudson3.jpeg)
+<img src="cycles_hudson3.jpeg" alt="cycles_hudson3" style="zoom:33%;" />
 
 La roue de Hudson - Source : https://kolibricoaching.com/motivation-neurosciences/le-cycle-du-changement-interieur/
 
@@ -64,7 +64,7 @@ Ici, il est possible que vous vous soyez fixé de nouveaux buts, parfois même t
 
 Vous avez fait du chemin et pouvez maintenant apercevoir un futur beaucoup plus clair. Vous avez réussi à faire le point sur ce qui vous motive et ce qui vous attire, et êtes prêt à relever de nouveaux défis. Il est temps de recommencer le cycle à l'étape 1, avec un nouveau projet !
 
-Cet article a été rédigé par Johann Pillet 
+Cet article a été rédigé par [Johann Pillet](https://www.linkedin.com/search/results/all/?keywords=johann%20pillet&origin=RICH_QUERY_SUGGESTION&position=2&searchId=072783a2-4a8e-4119-b076-66889ba5f202&sid=TsT) 
 
 ## Pour aller plus loin :
 
