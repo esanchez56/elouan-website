@@ -2,27 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economies on Cristalea</title>
-    <link>http://localhost:1313/economie/</link>
+    <link>https://cristalea.fr/economie/</link>
     <description>Recent content in Economies on Cristalea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/economie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cristalea.fr/economie/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PESTEL : 6 Lettres pour tout comprendre de VOTRE marché</title>
-      <link>http://localhost:1313/economie/pestel-6-lettres-pour-tout-comprendre-de-votre-marche/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Les 3 taux directeurs</title>
+      <link>https://cristalea.fr/economie/les-3-taux-directeurs/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/economie/pestel-6-lettres-pour-tout-comprendre-de-votre-marche/</guid>
-      <description>Lorsque vous souhaitez créer votre entreprise, il est indispensable de recourir à une analyse PESTEL.</description>
-    </item>
-    
-    <item>
-      <title>Les 4 segments d&#39;un marché</title>
-      <link>http://localhost:1313/economie/marche/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/economie/marche/</guid>
-      <description>Le marché au sens économique est un lieu d&amp;rsquo;échange où se rencontrent l&amp;rsquo;offre (les entreprises vendant leurs produits ou services), et la demande (les clients).</description>
+      <guid>https://cristalea.fr/economie/les-3-taux-directeurs/</guid>
+      <description>Le taux directeur est le taux d&amp;rsquo;intérêt fixé au jour le jour par une banque centrale.</description>
     </item>
     
   </channel>

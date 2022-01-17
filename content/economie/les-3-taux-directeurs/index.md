@@ -4,7 +4,6 @@ slug: "les-3-taux-directeurs"
 date: "2020-05-29"
 categories: 
   - "economie"
-  - "finance"
 tags: 
   - "banque-centrale"
   - "banques-commerciales"
@@ -12,18 +11,16 @@ tags:
   - "depots"
   - "financement"
   - "taux-directeur"
-draft: True
+
 ---
 
-Le taux directeur est le taux d'intérêt fixé au jour le jour par une banque centrale. Mais lorsque l'on parle de taux directeur, on désigne en réalité 3 taux différents sur lesquels une banque centrale a un impact. Avant de lire cet article, il est important de comprendre [comment fonctionne la banque centrale](https://keskec.fr/economie/johann/2348/).
+Le taux directeur est le taux d'intérêt fixé au jour le jour par une banque centrale. Mais lorsque l'on parle de taux directeur, on désigne en réalité 3 taux différents sur lesquels une banque centrale a un impact.
 
 ## Le taux de refinancement
 
 C'est le principal taux de la banque centrale. Il est utilisé lorsque les banques commerciales souhaitent emprunter de l’argent à une banque centrale. De cette façon, l’emprunt d’argent par les banques commerciales peut coûter plus ou moins cher en fonction des objectifs de la banque centrale.
 
 Ainsi, si la banque centrale augmente ses taux, cela reviendra plus cher à une banque commerciale de lui emprunter le l’argent. Celle-ci répercutera cette hausse sur ses propres taux, et il coutera alors plus cher à un particulier d’obtenir un crédit par exemple.
-
-![](images/abundance-bank-bank-notes-banking-259249-1-1024x683.jpg)
 
 Le taux de refinancement de la BCE est aujourd'hui à 0.00% (mai 2020).
 
