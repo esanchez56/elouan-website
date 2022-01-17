@@ -1,7 +1,7 @@
 ---
 title: "L'empowerment"
 slug: "lempowerment"
-date: "2020-06-09"
+date: "2021-06-09"
 categories: 
   - "management"
 tags: 
@@ -9,7 +9,6 @@ tags:
   - "communaute"
   - "decision"
   - "pouvoir"
-draft: True
 ---
 
 L'empowerment ou l'autonomisation est une notion de plus en plus utilisée qui désigne l'octroi de pouvoir et de responsabilités à un groupe d'individu. Cette notion est très liée à celle de responsabilisation des individus.
@@ -22,7 +21,7 @@ C'est donc un concept qui délimite la façon dont les individus acquièrent du 
 
 Ces communautés sont très hétérogènes. Elle peuvent regrouper des personnes ayant un revenu similaire, ayant des habitudes alimentaires communes ou encore ayant des intérêts politiques communs. Leurs engagements peuvent être spécifiques, liés à une problématique donnée, ou plus généraux autour d'un thème global.
 
-![](images/Community-based_savings_bank_in_Cambodia-1024x664.jpg)
+<img src="Community-based_savings_bank_in_Cambodia.jpeg" alt="Community-based_savings_bank_in_Cambodia" style="zoom: 25%;" />
 
 Par Brett Matthews — Travail personnel, CC BY-SA 3.0, [Banque d'épargne communautaire au Cambodge](https://commons.wikimedia.org/w/index.php?curid=4932539)
 
@@ -36,11 +35,13 @@ Les organismes de microfinance se sont alors développés très rapidement dans 
 
 ## L'empowerment en entreprise
 
-Donner plus de pouvoir à ses collaborateurs, leur permettre de mener des projets en accord avec leur vision de l'entreprise, c'est ce qui définit l'empowerment au sein d'une organisation. Déléguer le pouvoir et faire de l'entreprise un projet qui tend à se rapprocher du projet collaboratif, c'est aussi un moyen d'éviter le désengagement des collaborateurs. C'est une vision qui apparaît souvent en parallèle du développement des [entreprises libérées](https://keskec.fr/management/johann/476/).
+Donner plus de pouvoir à ses collaborateurs, leur permettre de mener des projets en accord avec leur vision de l'entreprise, c'est ce qui définit l'empowerment au sein d'une organisation. Déléguer le pouvoir et faire de l'entreprise un projet qui tend à se rapprocher du projet collaboratif, c'est aussi un moyen d'éviter le désengagement des collaborateurs. C'est une vision qui apparaît souvent en parallèle du développement des entreprises libérées.
 
-Bien souvent, un problème, s'il n'est pas structurel, se règle plus simplement au niveau des opérationnels et de leurs managers plutôt qu'à un niveau hiérarchique supérieur. En effet, les personnes les plus confrontées à la réalité du terrain auront une vision plus globale des enjeux liés au problème. L'empowerment c'est donc aussi de donner plus de flexibilité aux managers au sein de l'organisation, afin d'obtenir, _in fine_, une [meilleure efficience](https://keskec.fr/management/johann/411/).
+Bien souvent, un problème, s'il n'est pas structurel, se règle plus simplement au niveau des opérationnels et de leurs managers plutôt qu'à un niveau hiérarchique supérieur. En effet, les personnes les plus confrontées à la réalité du terrain auront une vision plus globale des enjeux liés au problème. L'empowerment c'est donc aussi de donner plus de flexibilité aux managers au sein de l'organisation, afin d'obtenir, _in fine_, une meilleure efficience.
 
 La limite de l'empowerment en entreprise vient principalement du fait que, si cette voie est choisie par les dirigeants, elle n'est pas forcément adoptée par les autres salariés qui n'auront pas toujours le réflexe de prendre de nouvelles initiatives. Il faut que ce parcours soit choisi dans une optique de coopération avec les différents collaborateurs, et non dans une simple optique de délégation de la gestion.
+
+Cet article a été rédigé par [Johann Pillet](https://www.linkedin.com/search/results/all/?keywords=johann%20pillet&origin=RICH_QUERY_SUGGESTION&position=2&searchId=072783a2-4a8e-4119-b076-66889ba5f202&sid=TsT) 
 
 ## Pour aller plus loin :
 
