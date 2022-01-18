@@ -1,7 +1,7 @@
 ---
 title: "Les 5 forces de PORTER : La concurrence des entreprises"
 slug: "les-5-forces-de-porter-la-concurrence-des-entreprises"
-date: "2020-06-15"
+date: "2021-06-15"
 categories: 
   - "management"
   - "marketing"
@@ -10,10 +10,9 @@ tags:
   - "management"
   - "marketing"
   - "porter"
-draft: True
 ---
 
-Dans chaque marché, la concurrence est un facteur essentiel à prendre en compte lors d'une analyse. Cela est autant valable pour prendre une décision d'ordre opérationnel que pour celle d'ordre stratégique (découvrez à ce sujet notre article sur les différents [types de décisions](https://keskec.fr/marketing/elouan/2313/)). Afin d'analyser au mieux ce facteur, il existe 5 forces concurrentielles exercées sur l'entreprise. Elles ont été mises en lumière par l'économiste PORTER.
+Dans chaque marché, la concurrence est un facteur essentiel à prendre en compte lors d'une analyse. Cela est autant valable pour prendre une décision d'ordre opérationnel que pour celle d'ordre stratégique (découvrez à ce sujet notre article sur les différents [types de décisions](https://cristalea.fr/management/les-2-types-de-decisions-en-marketing/). Afin d'analyser au mieux ce facteur, il existe 5 forces concurrentielles exercées sur l'entreprise. Elles ont été mises en lumière par l'économiste PORTER.
 
 ## Concurrents direct
 
@@ -22,8 +21,6 @@ Pour chaque entreprise, il existe un concurrent direct : Pepsi contre Coca, Sams
 ## Fournisseurs
 
 Les fournisseurs font partie intégrante de l'entreprise. Ce sont eux qui permettent la production dans l'entreprise, le moindre retard peut détruire une stratégie sur le long terme ou bien encore rendre un produit inutile (les vêtements de saison par exemple). Ils possèdent en conséquence une force de négociation énorme et un pouvoir sur l'entreprise. Il est donc important pour un bon manager de garder de bonnes relations avec ses fournisseurs afin de conserver cet avantage.
-
-![](close-up-of-human-hand-327533-scaled-1-1024x641.jpg)
 
 ## Acheteurs
 
