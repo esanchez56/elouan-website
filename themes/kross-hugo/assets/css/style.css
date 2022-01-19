@@ -515,16 +515,10 @@ textarea.form-control {
 .hero-area {
   padding: 250px 0 200px;
   position: relative;
-  background: linear-gradient(63deg, #0c2d6a, #00d78d)!important;
-  background-size: 400% 400%!important;
-  animation: abc 22s ease infinite!important;
+  background: linear-gradient(79deg, rgba(15,32,106,1), rgba(22,96,201,1) 100%)!important;
+  
+}
 
-}
-@keyframes abc{
-  0%{background-position:0% 53%}
-  50%{background-position:100% 48%}
-  100%{background-position:0% 53%}
-}
 @media(max-width:767px) {
   .hero-area {
     padding: 200px 0 150px;
@@ -884,7 +878,8 @@ blockquote {
 }
 
 .page-title {
-  padding: 250px 0 150px
+  padding: 250px 0 150px;
+  background: linear-gradient(79deg, rgba(15,32,106,1), rgba(22,96,201,1) 100%)!important;
 }
 
 .page-title .container {
@@ -1064,7 +1059,7 @@ img[style^="zoom: 67"]{
   
 }
 .card-body p{
-  overflow-y: clip;
+  overflow-y: hidden;
     height: 49px;
 }
 article.card.shadow{
