@@ -1,7 +1,7 @@
 ---
 title: "La théorie du Nudge"
 slug: "la-theorie-du-nudge"
-date: "2020-05-15"
+date: "2021-05-15"
 categories: 
   - "marketing"
 tags: 
@@ -11,16 +11,15 @@ tags:
   - "marketing"
   - "nudge"
   - "psychologie"
-draft: True
 ---
 
 Le Nudge (ou "coup de coude") est un concept comportemental qui consiste à inciter un individu à avoir un comportement vertueux, tout en utilisant son irrationalité. Cette technique marketing est énormément utilisée dans notre vie de tous les jours, et ce par différents acteurs.
 
 ## Qu'est-ce que le Nudge
 
-Conceptualisé en 2008 par [Richard Thaler](https://fr.wikipedia.org/wiki/Richard_Thaler) et [Cass Sunstein](https://fr.wikipedia.org/wiki/Cass_Sunstein) dans leur livre _[Nudge](https://fr.wikipedia.org/wiki/Nudge_(livre))_, ce concept se base sur l'irrationalité des humains afin de les inciter à faire quelque chose de bon pour la société. On parle également de paternalisme libéral, ce qui sous-entend que les individus sont certes libres, mais également relativement contrôlés (ici incités) via cette notion de "paternalisme". A l'instar du [Marketing Sensoriel](https://keskec.fr/marketing/elouan/1012/), le Nudge fait partie de l'économie comportementale. Si on prend l'exemple bien connu de la photo ci-dessous, on comprend vite de quoi il s'agit.
+Conceptualisé en 2008 par [Richard Thaler](https://fr.wikipedia.org/wiki/Richard_Thaler) et [Cass Sunstein](https://fr.wikipedia.org/wiki/Cass_Sunstein) dans leur livre _[Nudge](https://fr.wikipedia.org/wiki/Nudge_(livre))_, ce concept se base sur l'irrationalité des humains afin de les inciter à faire quelque chose de bon pour la société. On parle également de paternalisme libéral, ce qui sous-entend que les individus sont certes libres, mais également relativement contrôlés (ici incités) via cette notion de "paternalisme". A l'instar du [Marketing Sensoriel](https://cristalea.fr/marketing/le-marketing-sensoriel-un-voyage-des-5-sens/), le Nudge fait partie de l'économie comportementale. Si on prend l'exemple bien connu de la photo ci-dessous, on comprend vite de quoi il s'agit.
 
-![](images/Mouche-WC.jpg)
+<img src="Capture d’écran 2022-01-19 à 14.06.45.png" alt="Capture d’écran 2022-01-19 à 14.06.45" style="zoom:33%;" />
 
 La mouche dans l'urinoir, Source : [Pinterest](https://www.pinterest.fr/pin/444449056961371077/ )
 
@@ -32,13 +31,15 @@ Pourtant, la démarche n'est pas rationnelle : les hommes n'avaient aucun intér
 
 Si le Nudge est souvent utilisé par les entreprises, il était à la base très prisé des pouvoirs publics.
 
-![](images/Nudge-mégots-819x1024.jpg)
+<img src="Capture d’écran 2022-01-19 à 14.08.36.png" alt="Capture d’écran 2022-01-19 à 14.08.36" style="zoom: 25%;" />
 
 Une incitation à jeter ses mégots au bon endroit. Source : [Twitter](https://twitter.com/lasciencedufoot/status/1114100791462236160)
 
 Ainsi, en 2011, Stockholm, pour inciter la population à utiliser des escaliers dans le métro plutôt que les escalators, a mis en place des [escaliers musicaux](https://www.youtube.com/watch?v=e3QD8NuZPqI). Les usagers, emballés par l'installation, ont alors délaissé l'escalator et de cette manière ont été amenés à effectuer un effort physique.
 
 De plus en plus, les nudges sont utilisés à des fins de préservation des ressources et de l'environnement. Il n'est pas rare de voir fleurir sur les murs des entreprises ou écoles des stickers rappelant d'éteindre la lumière ou de mettre son gobelet en carton dans un bac prévu à cet effet. Et vous, remarquez-vous les nudges qui vous entourent?
+
+Cet article a été rédigé par [Johann Pillet](https://www.linkedin.com/search/results/all/?keywords=johann%20pillet&origin=RICH_QUERY_SUGGESTION&position=2&searchId=072783a2-4a8e-4119-b076-66889ba5f202&sid=TsT) 
 
 ## Pour aller plus loin :
 
