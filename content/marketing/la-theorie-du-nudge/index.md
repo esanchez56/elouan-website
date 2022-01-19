@@ -19,7 +19,7 @@ Le Nudge (ou "coup de coude") est un concept comportemental qui consiste à inci
 
 Conceptualisé en 2008 par [Richard Thaler](https://fr.wikipedia.org/wiki/Richard_Thaler) et [Cass Sunstein](https://fr.wikipedia.org/wiki/Cass_Sunstein) dans leur livre _[Nudge](https://fr.wikipedia.org/wiki/Nudge_(livre))_, ce concept se base sur l'irrationalité des humains afin de les inciter à faire quelque chose de bon pour la société. On parle également de paternalisme libéral, ce qui sous-entend que les individus sont certes libres, mais également relativement contrôlés (ici incités) via cette notion de "paternalisme". A l'instar du [Marketing Sensoriel](https://cristalea.fr/marketing/le-marketing-sensoriel-un-voyage-des-5-sens/), le Nudge fait partie de l'économie comportementale. Si on prend l'exemple bien connu de la photo ci-dessous, on comprend vite de quoi il s'agit.
 
-<img src="Capture d’écran 2022-01-19 à 14.06.45.png" alt="Capture d’écran 2022-01-19 à 14.06.45" style="zoom:33%;" />
+<img src="b2f804608079a0d66d5b4b75f2cfdbee.jpeg" alt="b2f804608079a0d66d5b4b75f2cfdbee" style="zoom: 50%;" />
 
 La mouche dans l'urinoir, Source : [Pinterest](https://www.pinterest.fr/pin/444449056961371077/ )
 
@@ -31,7 +31,7 @@ Pourtant, la démarche n'est pas rationnelle : les hommes n'avaient aucun intér
 
 Si le Nudge est souvent utilisé par les entreprises, il était à la base très prisé des pouvoirs publics.
 
-<img src="Capture d’écran 2022-01-19 à 14.08.36.png" alt="Capture d’écran 2022-01-19 à 14.08.36" style="zoom: 25%;" />
+<img src="D3YUwWSXkAEu9p4.jpeg" alt="D3YUwWSXkAEu9p4" style="zoom: 25%;" />
 
 Une incitation à jeter ses mégots au bon endroit. Source : [Twitter](https://twitter.com/lasciencedufoot/status/1114100791462236160)
 
