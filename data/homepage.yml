@@ -35,11 +35,11 @@ service:
       link : "/categories/management/"
       highlighted : false
 
-    - title : "Divertissement "
+    - title : "Economie"
       icon : "ti-panel"
       content : "Blabla 3"
-      image : "divertissement"
-      link : "/categories/divertissement/"
+      image : "eco"
+      link : "/categories/economie/"
       highlighted : false
 # skill
 skill:

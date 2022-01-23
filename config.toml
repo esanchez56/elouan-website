@@ -38,6 +38,11 @@ URL = "/Marketing"
 name = "Marketing"
 weight = 2
 [[menu.main]]
+URL = "/Economie"
+name = "Economie"
+weight = 2
+
+[[menu.main]]
 
 URL = "/Divertissement"
 name = "Divertissement"
